@@ -1,0 +1,27 @@
+package DynamicProgramming;
+
+public class MinimumJumps {
+    private static int minJumps(int[] arr,int n){
+        int[] jumps=new int[n];
+        int i,j;
+        jumps[0]=0;
+        if(n==0|| arr[0]==0){
+            return Integer.MAX_VALUE;
+        }
+        //to calculate the no of jumps required to reach from arr[0] to arr[i] and store it in jumps[i]
+        for(i=1;i<n;i++){
+            jumps[i]=Integer.MAX_VALUE;
+            for(j=0;j<i;j++){
+                if((i<=arr[j]+j) && jumps[j]!=Integer.MAX_VALUE){
+                    jumps[i]=Math.min(jumps[i],jumps[j]+1);
+                    break;
+                }
+            }
+        }
+return jumps[n-1];
+    }
+    public static void main(String[] args) {
+    int[] arr=new int[]{1, 3, 6, 1, 0, 9};
+        System.out.println(minJumps(arr,6));
+    }
+}

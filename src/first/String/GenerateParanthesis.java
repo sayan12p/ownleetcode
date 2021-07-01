@@ -6,17 +6,26 @@ import java.util.List;
 
 public class GenerateParanthesis {
     public static List<String> generateParanthesis(int n){
-        List<String> result=new ArrayList<>();
-        findAll("(",1,0,result,n);
-        return result;
+        ArrayList<String> ans=new ArrayList<>();
+        backtrack(ans,new StringBuilder(),0,0,n);
+        return ans;
     }
-    public static void findAll(String a,int o,int c,List<String> result,int n){
-        if(a.length() ==2*n){
-            result.add(a);
+    public static void backtrack(ArrayList ans,StringBuilder cur,int open,int close,int max){
+
+        if(cur.length()==2*max){
+            ans.add(cur.toString());
             return;
         }
-        if(o<n) findAll(a+"(",o+1,c,result,n);
-        if(c<o) findAll(a+")",o,c+1,result,n);
+        if(open<max){
+           cur.append("(");
+           backtrack(ans,cur,open+1,close,max);
+           cur.deleteCharAt(cur.length()-1);
+        }
+        if(close<open){
+            cur.append(")");
+            backtrack(ans,cur,open,close+1,max);
+            cur.deleteCharAt(cur.length()-1);
+        }
     }
     public static void main(String[] args) {
     List<String> result=generateParanthesis(2);

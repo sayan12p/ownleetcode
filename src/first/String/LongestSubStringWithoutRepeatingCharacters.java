@@ -15,8 +15,6 @@ public class LongestSubStringWithoutRepeatingCharacters {
                     ans=Math.max(ans,j-i);
             }
             }
-
-
         return ans;
     }
     public static boolean allUnique(String s, int start, int end){

@@ -1,7 +1,5 @@
 package first;
 
-import first.First.ListNode;
-
 public class Second {
 
 	public static class ListNode {

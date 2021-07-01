@@ -14,7 +14,7 @@ public class Test5 {
         //map.forEach((k,v)->System.out.println(k +" " +v));
         //IntStream.range(0,10).forEach(i->{i=i*2; System.out.println(i);});
         List<Integer> list=new ArrayList<>();
-        list.addAll(Arrays.asList(new Integer[]{1,2,3}));
+        list.addAll(Arrays.asList(new Integer[]{1,2,3,8,9,6,65,64}));
         List<Integer> list1=new ArrayList<>();
         list1.addAll(Arrays.asList(new Integer[]{2,3,4}));
         /*List<Integer> result=list1.stream().filter(list::contains).collect(Collectors.toList());*/
@@ -44,7 +44,16 @@ public class Test5 {
         for(Map.Entry<String,Integer> me:set){
             System.out.println(me.getKey()+" "+me.getValue());
         }
-
-
+        List<Integer> sayanlist=new ArrayList<>();
+        sayanlist.addAll(Arrays.asList(new Integer[]{1,2,3,8,9,6,65,64}));
+        Integer sdf=sayanlist.stream().min(Comparator.comparingInt(value -> -value)).get();
+        sayanlist.removeIf(integer -> integer.equals(sdf));
+        System.out.println(sayanlist.toString());
+        int[] numarray=new int[]{12,12,14,14,15,16,15,19,16};
+        Set<Integer> numset=new HashSet<>();
+        for(int i=0;i<numarray.length;i++){
+            numset.add(numarray[i]);
+        }
+        System.out.println(numset);
     }
 }

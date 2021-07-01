@@ -6,20 +6,20 @@ import java.util.List;
 import java.util.stream.Collectors;
 
 public class Test2 {
-    public void takeDistinct() {
-        Integer[] arr1 = new Integer[]{1, 2, 3};
-        Integer[] arr2 = new Integer[]{1, 2};
-
-        List<Integer> list1 = new ArrayList<>();
-        List<Integer> list2 = new ArrayList<>();
-        list1.addAll(Arrays.asList(arr1));
-        list2.addAll(Arrays.asList(arr2));
-        List<Integer> result=list1.stream().distinct().filter(list2::contains).collect(Collectors.toList());
+    public static void main(String args[]) {
+        ArrayList<String> list = new ArrayList<>();
+        list.add("lALL");
+        list.add("AFN");
+        list.add("ARS");
+        list.add("AWG");
+        list.add("AUD");
+        list.add("AZN");
+        list.add("BSD");
+        list.add("BBD");
+        list.add("BYN");
+        list.add("BZD");
+        boolean result = list.stream().anyMatch(s -> s.equalsIgnoreCase("USD"));
         System.out.println(result);
-    }
 
-    public static void main(String[] args) {
-        Test2 t2=new Test2();
-        t2.takeDistinct();
     }
 }
