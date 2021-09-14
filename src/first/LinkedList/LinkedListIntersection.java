@@ -7,7 +7,6 @@ public class LinkedListIntersection {
         ListNode result = checkmid(node, node1);
         System.out.println(ListNode.toString(result));
     }
-
     private static ListNode checkmid(ListNode node, ListNode node1) {
         ListNode dummy=new ListNode(0);
         dummy.next=node;

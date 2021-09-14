@@ -3,28 +3,34 @@ package first;
 
 
 import java.util.*;
+import java.util.stream.Collectors;
 
 public class Test {
-    public static  String removechars(String str, String remove){
-        char[] charstr=str.toCharArray();
-        char[] charRemove=remove.toCharArray();
-        int i,dst=0;
-        boolean[] flags=new boolean[128];
-        for( i=0;i<charRemove.length;i++){
-            flags[charRemove[i]]=true;
-        }
-        for( i=0;i<str.length();i++){
-            if(!flags[charstr[i]]){
-                charstr[dst++]=charstr[i];
+    static class Employee{
+        public String id;
+        public String name;
+        public List<String> skills;
+
+    public Employee(){}
+
+        public Employee(String id, String name, List<String> skills) {
+            this.id = id;
+            this.name = name;
+            this.skills = skills;
         }
     }
-    return  new String(charstr,0,dst);
-    }
-    public static void main(String args[]) {
-        String greeting = "Good Morning, Dave";
-        String result=removechars(greeting,"Goo");
-        System.out.println(result);
+
+    public static void main(String[] args) {
+        List<Employee> list = new ArrayList<>(Arrays.asList(new Employee("1", "sayan", new ArrayList<>(Arrays.asList("java", "cobol", "hq"))),
+                new Employee("2", "shubham", new ArrayList<>(Arrays.asList("java", "c++", "hive"))),
+                new Employee("3", "sarthak", new ArrayList<>(Arrays.asList("java", "python", "cobol")))));
+        Set<List<String>> set=new HashSet<>();
+        set.add(list.get(0).skills);
+        set.add(list.get(1).skills);
+        set.add(list.get(2).skills);
+        System.out.println(set.stream().flatMap(p->p.stream()).collect(Collectors.toSet()));
 
     }
-}
+    }
+
 

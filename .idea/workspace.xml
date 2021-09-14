@@ -2,309 +2,263 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="f7063929-12e0-4cd2-b46a-e447a009a9d4" name="Default Changelist" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/BackTracking/Permutations.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/BackTracking/PermutationsString.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/BinarySearch/Books.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/BinarySearch/FindMinInRotatedArray2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/BinarySearch/IndexOfFirstOccurrence.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/BinarySearch/IndexOfLastOccurrence.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/BinarySearch/LongestIncreasingSubsequence.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/BinarySearch/MatrixMedian.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/BinarySearch/MinimumSwapstoSort$1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/BinarySearch/MinimumSwapstoSort.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/BinarySearch/PainterPartition.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/BinarySearch/SearchRange.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/BinarySearch/Squareroot.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/DepthFirstSearch/CombinationSum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/DepthFirstSearch/NQueens.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/DynamicProgramming/MaximumSubarray.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/DynamicProgramming/MinimumJumps.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Greedy/ChooseAndSwap.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Greedy/MinimumAndMaximumCandies.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Infosys.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Recursion/BalancedBinaryTree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Recursion/BinaryTreeRightSideView.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Recursion/MaxDepthBinaryTree$TreeNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Recursion/MaxDepthBinaryTree.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Recursion/ValidateBST$TreeNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Recursion/ValidateBST.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Sort/CaseSpecificSortingOfStrings.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Sort/CountInversionInArray.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Sort/CountOfSmallerNumbers.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Sort/FindMissingAndRepeating.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Sort/MaximumGap.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Sort/MaximumPerformance.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Sort/MergeSort.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Sort/MergeSortDoublyLinkedList$ListNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Sort/MergeSortDoublyLinkedList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Sort/ReverseArray.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Sort/WaveArray.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/ThreadB.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/Threaddemo.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/TwoPointers/DifferenceK.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/TwoPointers/FindDuplicatesfromArrays.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/TwoPointers/FindMajorityElement.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/TwoPointers/IntersectionSortedArrays.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/TwoPointers/MaxNoOf1s.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/TwoPointers/MergeTwoSortedLists.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/TwoPointers/MissingNoInArray.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/TwoPointers/PairWithGivenDifference.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/TwoPointers/RemoveElementFromArray.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/TwoPointers/ThreeSum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/TwoPointers/findRepeatingElement.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/demo1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/demo2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/Array/BuyAndSellStock2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/Array/FindPeakElement.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/Array/IncreasingTripletSubsequence.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/Array/JumpGame2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/Array/MergeIntervals.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/Array/MissingRanges.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/Array/ReductorArray.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/Array/RemoveElement.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/Array/RotateMatrix.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/Array/SortColour.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/Array/SplitArray.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/Array/SubsetsOFArray.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/Array/ThreeSum.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/Array/ThreeSumClosest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/Array/TwoSum2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/Array/largestNumberPalindrome.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/Employee1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/AddTwoNumbers$ListNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/AddTwoNumbers.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/CopyListWithPointer$ListNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/CopyListWithPointer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/DeleteDuplicates$ListNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/DeleteDuplicates.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/InsertAtGivenPoint.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/IsListPalindrome.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/LinkedListIntersection.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/ListCycle$ListNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/ListCycle.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/ListNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/MergeList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/OddEvenLinkedList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/PartitionList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/PartitionList1$ListNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/PartitionList1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/RemoveDuplicatesfromSortedList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/RemoveNthNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/ReorderList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/ReverseListNormal$ListNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/ReverseListNormal.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/Reverselist.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/Reverselist1.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/RotateRight$ListNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/RotateRight.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/SearchInLinkedList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/SegOddAndEvenNodes.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/SortList$ListNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/SortList.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/SortListtoBST$ListNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/SortListtoBST$TreeNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/SortListtoBST.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/LinkedList/SwapNodesInPairs.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/String/GroupAnagrams.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/String/LongestParanthesis.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/String/LongestSubstringwithAtMostTwoDistinctCharacters.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/String/MinimumWindowSubstring.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/String/StringTest.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/String/ZigZagConversion.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/first/employeeFinder.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/geeksforgeeks/Arrays/FindMajorityElement.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/geeksforgeeks/Mathematical/MaximumMoney.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/geeksforgeeks/Sorting/BishuAndSoldiers.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/geeksforgeeks/Sorting/QuickSort.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/geeksforgeeks/Sorting/SortTheUnSorted.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/geeksforgeeks/linkedlist/Deletewithoutheadpointer$ListNode.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/geeksforgeeks/linkedlist/Deletewithoutheadpointer.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/infosys2.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/first.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BackTracking/NQueens.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BackTracking/Permutations.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BackTracking/PermutationsString.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinarySearch/Books.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinarySearch/FindMinInRotatedArray2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinarySearch/IndexOfFirstOccurrence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinarySearch/IndexOfLastOccurrence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinarySearch/LongestIncreasingSubsequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinarySearch/MatrixMedian.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinarySearch/MinimumSwapstoSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinarySearch/PainterPartition.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinarySearch/SearchRange.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BinarySearch/Squareroot.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Demo1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DynamicProgramming/MaximumSubarray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DynamicProgramming/MinimumJumps.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Greedy/ChooseAndSwap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Greedy/MinimumAndMaximumCandies.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Recursion/BalancedBinaryTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Recursion/BinaryTreeRightSideView.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Recursion/MaxDepthBinaryTree.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Recursion/ValidateBST.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sort/CaseSpecificSortingOfStrings.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sort/CountInversionInArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sort/CountOfSmallerNumbers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sort/FindMissingAndRepeating.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sort/MaximumGap.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sort/MaximumPerformance.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sort/MergeSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sort/MergeSortDoublyLinkedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sort/ReverseArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Sort/WaveArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Threaddemo.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TwoPointers/DifferenceK.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TwoPointers/FindDuplicatesfromArrays.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TwoPointers/FindMajorityElement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TwoPointers/IntersectionSortedArrays.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TwoPointers/MaxNoOf1s.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TwoPointers/MergeTwoSortedLists.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TwoPointers/MissingNoInArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TwoPointers/PairWithGivenDifference.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TwoPointers/RemoveElementFromArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TwoPointers/ThreeSum.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/TwoPointers/findRepeatingElement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/demo2.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/Array/IncreasingTripletSubsequence.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/Array/MergeIntervals.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/Array/MissingRanges.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/Array/ReductorArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/Array/SplitArray.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/Array/ThreeSumClosest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/Array/largestNumberPalindrome.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/LinkedList/InsertAtGivenPoint.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/LinkedList/IsListPalindrome.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/LinkedList/LinkedListIntersection.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/LinkedList/MergeList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/LinkedList/OddEvenLinkedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/LinkedList/PartitionList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/LinkedList/RemoveDuplicatesfromSortedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/LinkedList/RemoveNthNode.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/LinkedList/ReorderList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/LinkedList/Reverselist.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/LinkedList/Reverselist1.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/LinkedList/SearchInLinkedList.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/LinkedList/SegOddAndEvenNodes.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/LinkedList/SwapNodesInPairs.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/String/GroupAnagrams.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/String/LongestParanthesis.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/String/LongestSubstringwithAtMostTwoDistinctCharacters.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/String/MinimumWindowSubstring.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/String/StringTest.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/String/ZigZagConversion.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/employeeFinder.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/geeksforgeeks/Arrays/FindMajorityElement.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/geeksforgeeks/Mathematical/MaximumMoney.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/geeksforgeeks/Sorting/BishuAndSoldiers.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/geeksforgeeks/Sorting/QuickSort.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/geeksforgeeks/Sorting/SortTheUnSorted.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/geeksforgeeks/linkedlist/Deletewithoutheadpointer.java" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/infosys2.java" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/BuyAndSellStock2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/CombinationSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/CopyListWithPointer$ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/CopyListWithPointer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/DeleteDuplicates$ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/DeleteDuplicates.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/Fifth$ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/Fifth.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/FindPeakElement.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/First$ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/First.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/JumpGame2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/ListCycle$ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/ListCycle.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/PartitionList$ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/PartitionList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/RemoveElement.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/ReverseList$ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/ReverseList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/ReverseListNormal$ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/ReverseListNormal.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/RotateMatrix.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/SortColour.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/SortList$ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/SortList.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/SortListtoBST$ListNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/SortListtoBST$TreeNode.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/SortListtoBST.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/SubsetsOFArray.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/ThreeSum.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/TwoSum2.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/WhileTes.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/first/ReverseList.java" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/first/WhileTes.java" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BackTracking/Combinations.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/BackTracking/PalindromePartitioning.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/DepthFirstSearch/WordLadder2.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Greedy/Maximum69Number.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Greedy/MeetingRoomsII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Greedy/MinimizeProductSumofTwoArrays.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Greedy/Nmeetingsinoneroom.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Greedy/PartitioningIntoMinimumNumberOfDeciBinaryNumbers.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/Greedy/SplitaStringinBalancedStrings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/MethodOverloadingAndOverRiding.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/Array/ChocolateDistributionProblem.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/Array/FindMissingAndRepeating.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/Array/IntersectionofTwoArraysII.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/Array/JumpGame.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/Array/LongestAlternateSubsequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/Array/LongestConsecutiveSubsequence.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/Array/MaxSumPath.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/Array/MaximumIndex.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/Array/MinimumSizeSubarraySum.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/Array/MoveZero.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/Array/MoveZeroes.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/Array/PerfectArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/Array/ProductofArrayExceptSelf.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/Array/RotateArray.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/Array/SingleNumber.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/Array/SumPair.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/LinkedList/TreeToDoublyList.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/String/CountDuplicateCharacters.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/String/FirstNonRepeatedCharacter.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/String/IsogramString.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/String/IsomorphicStrings.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/String/IsomorphicStrings1.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/String/RecursivelyPrintAllSentences.java" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/first/String/codingninjas/nextLargestPalindrome.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/DepthFirstSearch/CombinationSum.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/DepthFirstSearch/NQueens.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/DepthFirstSearch/PhoneNumber.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/Array/JumpGame2.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/bin/first/Test5.class" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/first/Array/JumpGame2.java" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/BackTracking/Permutations.class" afterPath="$PROJECT_DIR$/bin/BackTracking/Permutations.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/BackTracking/PermutationsString.class" afterPath="$PROJECT_DIR$/bin/BackTracking/PermutationsString.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/BinarySearch/Books.class" afterPath="$PROJECT_DIR$/bin/BinarySearch/Books.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/BinarySearch/FindMinInRotatedArray2.class" afterPath="$PROJECT_DIR$/bin/BinarySearch/FindMinInRotatedArray2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/BinarySearch/IndexOfFirstOccurrence.class" afterPath="$PROJECT_DIR$/bin/BinarySearch/IndexOfFirstOccurrence.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/BinarySearch/IndexOfLastOccurrence.class" afterPath="$PROJECT_DIR$/bin/BinarySearch/IndexOfLastOccurrence.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/BinarySearch/LongestIncreasingSubsequence.class" afterPath="$PROJECT_DIR$/bin/BinarySearch/LongestIncreasingSubsequence.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/BinarySearch/MatrixMedian.class" afterPath="$PROJECT_DIR$/bin/BinarySearch/MatrixMedian.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/BinarySearch/MinimumSwapstoSort$1.class" afterPath="$PROJECT_DIR$/bin/BinarySearch/MinimumSwapstoSort$1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/BinarySearch/MinimumSwapstoSort.class" afterPath="$PROJECT_DIR$/bin/BinarySearch/MinimumSwapstoSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/BinarySearch/PainterPartition.class" afterPath="$PROJECT_DIR$/bin/BinarySearch/PainterPartition.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/BinarySearch/SearchRange.class" afterPath="$PROJECT_DIR$/bin/BinarySearch/SearchRange.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/BinarySearch/Squareroot.class" afterPath="$PROJECT_DIR$/bin/BinarySearch/Squareroot.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/DepthFirstSearch/ConstructBiinaryTree$TreeNode.class" afterPath="$PROJECT_DIR$/bin/DepthFirstSearch/ConstructBiinaryTree$TreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/DepthFirstSearch/ConstructBiinaryTree.class" afterPath="$PROJECT_DIR$/bin/DepthFirstSearch/ConstructBiinaryTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/DepthFirstSearch/ConstructBinaryTree1$TreeNode.class" afterPath="$PROJECT_DIR$/bin/DepthFirstSearch/ConstructBinaryTree1$TreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/DepthFirstSearch/ConstructBinaryTree1.class" afterPath="$PROJECT_DIR$/bin/DepthFirstSearch/ConstructBinaryTree1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/DepthFirstSearch/MaximumDepthTree$TreeNode.class" afterPath="$PROJECT_DIR$/bin/DepthFirstSearch/MaximumDepthTree$TreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/DepthFirstSearch/MaximumDepthTree.class" afterPath="$PROJECT_DIR$/bin/DepthFirstSearch/MaximumDepthTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/DepthFirstSearch/SameTree$TreeNode.class" afterPath="$PROJECT_DIR$/bin/DepthFirstSearch/SameTree$TreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/DepthFirstSearch/SameTree.class" afterPath="$PROJECT_DIR$/bin/DepthFirstSearch/SameTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/DepthFirstSearch/SortedArraytoBST$TreeNode.class" afterPath="$PROJECT_DIR$/bin/DepthFirstSearch/SortedArraytoBST$TreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/DepthFirstSearch/SortedArraytoBST.class" afterPath="$PROJECT_DIR$/bin/DepthFirstSearch/SortedArraytoBST.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/DepthFirstSearch/SymmetricTree$TreeNode.class" afterPath="$PROJECT_DIR$/bin/DepthFirstSearch/SymmetricTree$TreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/DepthFirstSearch/SymmetricTree.class" afterPath="$PROJECT_DIR$/bin/DepthFirstSearch/SymmetricTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/DynamicProgramming/MaximumSubarray.class" afterPath="$PROJECT_DIR$/bin/DynamicProgramming/MaximumSubarray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/DynamicProgramming/MinimumJumps.class" afterPath="$PROJECT_DIR$/bin/DynamicProgramming/MinimumJumps.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Greedy/ChooseAndSwap.class" afterPath="$PROJECT_DIR$/bin/Greedy/ChooseAndSwap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Greedy/MinimumAndMaximumCandies.class" afterPath="$PROJECT_DIR$/bin/Greedy/MinimumAndMaximumCandies.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Infosys.class" afterPath="$PROJECT_DIR$/bin/Infosys.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Recursion/BalancedBinaryTree.class" afterPath="$PROJECT_DIR$/bin/Recursion/BalancedBinaryTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Recursion/BinaryTreeRightSideView.class" afterPath="$PROJECT_DIR$/bin/Recursion/BinaryTreeRightSideView.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Recursion/MaxDepthBinaryTree$TreeNode.class" afterPath="$PROJECT_DIR$/bin/Recursion/MaxDepthBinaryTree$TreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Recursion/MaxDepthBinaryTree.class" afterPath="$PROJECT_DIR$/bin/Recursion/MaxDepthBinaryTree.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Recursion/ValidateBST$TreeNode.class" afterPath="$PROJECT_DIR$/bin/Recursion/ValidateBST$TreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Recursion/ValidateBST.class" afterPath="$PROJECT_DIR$/bin/Recursion/ValidateBST.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Sort/CaseSpecificSortingOfStrings.class" afterPath="$PROJECT_DIR$/bin/Sort/CaseSpecificSortingOfStrings.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Sort/CountInversionInArray.class" afterPath="$PROJECT_DIR$/bin/Sort/CountInversionInArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Sort/CountOfSmallerNumbers.class" afterPath="$PROJECT_DIR$/bin/Sort/CountOfSmallerNumbers.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Sort/FindMissingAndRepeating.class" afterPath="$PROJECT_DIR$/bin/Sort/FindMissingAndRepeating.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Sort/MaximumGap.class" afterPath="$PROJECT_DIR$/bin/Sort/MaximumGap.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Sort/MaximumPerformance.class" afterPath="$PROJECT_DIR$/bin/Sort/MaximumPerformance.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Sort/MergeSort.class" afterPath="$PROJECT_DIR$/bin/Sort/MergeSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Sort/MergeSortDoublyLinkedList$ListNode.class" afterPath="$PROJECT_DIR$/bin/Sort/MergeSortDoublyLinkedList$ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Sort/MergeSortDoublyLinkedList.class" afterPath="$PROJECT_DIR$/bin/Sort/MergeSortDoublyLinkedList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Sort/ReverseArray.class" afterPath="$PROJECT_DIR$/bin/Sort/ReverseArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Sort/WaveArray.class" afterPath="$PROJECT_DIR$/bin/Sort/WaveArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/ThreadB.class" afterPath="$PROJECT_DIR$/bin/ThreadB.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/Threaddemo.class" afterPath="$PROJECT_DIR$/bin/Threaddemo.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/TwoPointers/DifferenceK.class" afterPath="$PROJECT_DIR$/bin/TwoPointers/DifferenceK.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/TwoPointers/FindDuplicatesfromArrays.class" afterPath="$PROJECT_DIR$/bin/TwoPointers/FindDuplicatesfromArrays.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/TwoPointers/FindMajorityElement.class" afterPath="$PROJECT_DIR$/bin/TwoPointers/FindMajorityElement.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/TwoPointers/IntersectionSortedArrays.class" afterPath="$PROJECT_DIR$/bin/TwoPointers/IntersectionSortedArrays.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/TwoPointers/MaxNoOf1s.class" afterPath="$PROJECT_DIR$/bin/TwoPointers/MaxNoOf1s.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/TwoPointers/MergeTwoSortedLists.class" afterPath="$PROJECT_DIR$/bin/TwoPointers/MergeTwoSortedLists.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/TwoPointers/MissingNoInArray.class" afterPath="$PROJECT_DIR$/bin/TwoPointers/MissingNoInArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/TwoPointers/PairWithGivenDifference.class" afterPath="$PROJECT_DIR$/bin/TwoPointers/PairWithGivenDifference.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/TwoPointers/RemoveElementFromArray.class" afterPath="$PROJECT_DIR$/bin/TwoPointers/RemoveElementFromArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/TwoPointers/ThreeSum.class" afterPath="$PROJECT_DIR$/bin/TwoPointers/ThreeSum.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/TwoPointers/findRepeatingElement.class" afterPath="$PROJECT_DIR$/bin/TwoPointers/findRepeatingElement.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/demo1.class" afterPath="$PROJECT_DIR$/bin/demo1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/demo2.class" afterPath="$PROJECT_DIR$/bin/demo2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/AXIS.class" afterPath="$PROJECT_DIR$/bin/first/AXIS.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Animal.class" afterPath="$PROJECT_DIR$/bin/first/Animal.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Animal1.class" afterPath="$PROJECT_DIR$/bin/first/Animal1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/AreaContainer.class" afterPath="$PROJECT_DIR$/bin/first/Array/AreaContainer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/ArrayManipulation.class" afterPath="$PROJECT_DIR$/bin/first/Array/ArrayManipulation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/BuyAndSellStock.class" afterPath="$PROJECT_DIR$/bin/first/Array/BuyAndSellStock.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/BuyAndSellStock2.class" afterPath="$PROJECT_DIR$/bin/first/Array/BuyAndSellStock2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/CountTriplets.class" afterPath="$PROJECT_DIR$/bin/first/Array/CountTriplets.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/FindPeakElement.class" afterPath="$PROJECT_DIR$/bin/first/Array/FindPeakElement.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/FirstMissingPositive.class" afterPath="$PROJECT_DIR$/bin/first/Array/FirstMissingPositive.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/IncreasingTripletSubsequence.class" afterPath="$PROJECT_DIR$/bin/first/Array/IncreasingTripletSubsequence.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/MaxSubArray.class" afterPath="$PROJECT_DIR$/bin/first/Array/MaxSubArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/MaximumProductSubarray.class" afterPath="$PROJECT_DIR$/bin/first/Array/MaximumProductSubarray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/MergeIntervals.class" afterPath="$PROJECT_DIR$/bin/first/Array/MergeIntervals.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/MinSubArraySumLength.class" afterPath="$PROJECT_DIR$/bin/first/Array/MinSubArraySumLength.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/MinimumInRotatedArray.class" afterPath="$PROJECT_DIR$/bin/first/Array/MinimumInRotatedArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/MissingRanges.class" afterPath="$PROJECT_DIR$/bin/first/Array/MissingRanges.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/NextPermutation.class" afterPath="$PROJECT_DIR$/bin/first/Array/NextPermutation.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/ReductorArray.class" afterPath="$PROJECT_DIR$/bin/first/Array/ReductorArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/RemoveDuplicates.class" afterPath="$PROJECT_DIR$/bin/first/Array/RemoveDuplicates.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/RemoveElement.class" afterPath="$PROJECT_DIR$/bin/first/Array/RemoveElement.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/RotateMatrix.class" afterPath="$PROJECT_DIR$/bin/first/Array/RotateMatrix.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/SearchInRotatedArray.class" afterPath="$PROJECT_DIR$/bin/first/Array/SearchInRotatedArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/SortColors.class" afterPath="$PROJECT_DIR$/bin/first/Array/SortColors.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/SortColour.class" afterPath="$PROJECT_DIR$/bin/first/Array/SortColour.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/SplitArray.class" afterPath="$PROJECT_DIR$/bin/first/Array/SplitArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/SubsetsOFArray.class" afterPath="$PROJECT_DIR$/bin/first/Array/SubsetsOFArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/ThreeSum.class" afterPath="$PROJECT_DIR$/bin/first/Array/ThreeSum.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/ThreeSumClosest.class" afterPath="$PROJECT_DIR$/bin/first/Array/ThreeSumClosest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/TwoSum2.class" afterPath="$PROJECT_DIR$/bin/first/Array/TwoSum2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Array/largestNumberPalindrome.class" afterPath="$PROJECT_DIR$/bin/first/Array/largestNumberPalindrome.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/B.class" afterPath="$PROJECT_DIR$/bin/first/B.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/BalancedBrackets.class" afterPath="$PROJECT_DIR$/bin/first/BalancedBrackets.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Bank.class" afterPath="$PROJECT_DIR$/bin/first/Bank.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Cat.class" afterPath="$PROJECT_DIR$/bin/first/Cat.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Dog.class" afterPath="$PROJECT_DIR$/bin/first/Dog.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Dog1.class" afterPath="$PROJECT_DIR$/bin/first/Dog1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Employee.class" afterPath="$PROJECT_DIR$/bin/first/Employee.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Employee1.class" afterPath="$PROJECT_DIR$/bin/first/Employee1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Fourth$ListNode.class" afterPath="$PROJECT_DIR$/bin/first/Fourth$ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Fourth.class" afterPath="$PROJECT_DIR$/bin/first/Fourth.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/ICICI.class" afterPath="$PROJECT_DIR$/bin/first/ICICI.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Interfacetest.class" afterPath="$PROJECT_DIR$/bin/first/Interfacetest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/AddTwoNumbers$ListNode.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/AddTwoNumbers$ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/AddTwoNumbers.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/AddTwoNumbers.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/CopyListWithPointer$ListNode.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/CopyListWithPointer$ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/CopyListWithPointer.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/CopyListWithPointer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/DeleteDuplicates$ListNode.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/DeleteDuplicates$ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/DeleteDuplicates.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/DeleteDuplicates.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/InsertAtGivenPoint.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/InsertAtGivenPoint.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/IsListPalindrome.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/IsListPalindrome.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/LeftRotate.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/LeftRotate.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/LinkedListIntersection.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/LinkedListIntersection.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/ListCycle$ListNode.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/ListCycle$ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/ListCycle.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/ListCycle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/ListNode.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/MergeList.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/MergeList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/OddEvenLinkedList.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/OddEvenLinkedList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/PartitionList.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/PartitionList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/PartitionList1$ListNode.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/PartitionList1$ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/PartitionList1.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/PartitionList1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/RemoveDuplicatesfromSortedList.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/RemoveDuplicatesfromSortedList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/RemoveNthNode.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/RemoveNthNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/ReorderList.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/ReorderList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/ReverseListNormal$ListNode.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/ReverseListNormal$ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/ReverseListNormal.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/ReverseListNormal.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/Reverselist.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/Reverselist.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/Reverselist1.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/Reverselist1.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/RotateRight$ListNode.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/RotateRight$ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/RotateRight.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/RotateRight.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/SearchInLinkedList.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/SearchInLinkedList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/SegOddAndEvenNodes.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/SegOddAndEvenNodes.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/SortList$ListNode.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/SortList$ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/SortList.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/SortList.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/SortListtoBST$ListNode.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/SortListtoBST$ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/SortListtoBST$TreeNode.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/SortListtoBST$TreeNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/SortListtoBST.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/SortListtoBST.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/LinkedList/SwapNodesInPairs.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/SwapNodesInPairs.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Motorcycle.class" afterPath="$PROJECT_DIR$/bin/first/Motorcycle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Overloading.class" afterPath="$PROJECT_DIR$/bin/first/Overloading.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Polymorphism.class" afterPath="$PROJECT_DIR$/bin/first/Polymorphism.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/RansomNote.class" afterPath="$PROJECT_DIR$/bin/first/RansomNote.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Redwood.class" afterPath="$PROJECT_DIR$/bin/first/Redwood.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/SBI.class" afterPath="$PROJECT_DIR$/bin/first/SBI.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/SUV.class" afterPath="$PROJECT_DIR$/bin/first/SUV.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Second$ListNode.class" afterPath="$PROJECT_DIR$/bin/first/Second$ListNode.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Second.class" afterPath="$PROJECT_DIR$/bin/first/Second.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Solution.class" afterPath="$PROJECT_DIR$/bin/first/Solution.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/SpiralMatrix.class" afterPath="$PROJECT_DIR$/bin/first/SpiralMatrix.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/String/AddBinary.class" afterPath="$PROJECT_DIR$/bin/first/String/AddBinary.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/String/DecodeWays.class" afterPath="$PROJECT_DIR$/bin/first/String/DecodeWays.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/String/Demo.class" afterPath="$PROJECT_DIR$/bin/first/String/Demo.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/String/GenerateParanthesis.class" afterPath="$PROJECT_DIR$/bin/first/String/GenerateParanthesis.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/String/GroupAnagrams.class" afterPath="$PROJECT_DIR$/bin/first/String/GroupAnagrams.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/String/LengthOfLastWord.class" afterPath="$PROJECT_DIR$/bin/first/String/LengthOfLastWord.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/String/LongestPalindromeSubstring.class" afterPath="$PROJECT_DIR$/bin/first/String/LongestPalindromeSubstring.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/String/LongestParanthesis.class" afterPath="$PROJECT_DIR$/bin/first/String/LongestParanthesis.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/String/LongestPrefix.class" afterPath="$PROJECT_DIR$/bin/first/String/LongestPrefix.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/String/LongestSubStringWithoutRepeatingCharacters.class" afterPath="$PROJECT_DIR$/bin/first/String/LongestSubStringWithoutRepeatingCharacters.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/String/LongestSubstringwithAtMostTwoDistinctCharacters.class" afterPath="$PROJECT_DIR$/bin/first/String/LongestSubstringwithAtMostTwoDistinctCharacters.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/String/MinimumWindowSubstring.class" afterPath="$PROJECT_DIR$/bin/first/String/MinimumWindowSubstring.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/String/MultiplyStrings.class" afterPath="$PROJECT_DIR$/bin/first/String/MultiplyStrings.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/String/RegularExpressionMatching.class" afterPath="$PROJECT_DIR$/bin/first/String/RegularExpressionMatching.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/String/SimplifyPath.class" afterPath="$PROJECT_DIR$/bin/first/String/SimplifyPath.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/String/StringTest.class" afterPath="$PROJECT_DIR$/bin/first/String/StringTest.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/String/SubstringWithConcatenationOffAllWords.class" afterPath="$PROJECT_DIR$/bin/first/String/SubstringWithConcatenationOffAllWords.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/String/ZigZagConversion.class" afterPath="$PROJECT_DIR$/bin/first/String/ZigZagConversion.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/String/hackerearth/BreakingBad.class" afterPath="$PROJECT_DIR$/bin/first/String/hackerearth/BreakingBad.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/String/hackerearth/Candies.class" afterPath="$PROJECT_DIR$/bin/first/String/hackerearth/Candies.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/String/hackerearth/LoveForPalindromes.class" afterPath="$PROJECT_DIR$/bin/first/String/hackerearth/LoveForPalindromes.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/String/hackerearth/MaximumSubstring.class" afterPath="$PROJECT_DIR$/bin/first/String/hackerearth/MaximumSubstring.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/String/hackerearth/MessageTransfer.class" afterPath="$PROJECT_DIR$/bin/first/String/hackerearth/MessageTransfer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/String/hackerearth/TwitterTrends.class" afterPath="$PROJECT_DIR$/bin/first/String/hackerearth/TwitterTrends.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/SwitchExample.class" afterPath="$PROJECT_DIR$/bin/first/SwitchExample.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Test.class" afterPath="$PROJECT_DIR$/bin/first/Test.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Test1.class" afterPath="$PROJECT_DIR$/bin/first/Test1.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Test2.class" afterPath="$PROJECT_DIR$/bin/first/Test2.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Test5.class" afterPath="$PROJECT_DIR$/bin/first/Test5.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Test3.class" afterPath="$PROJECT_DIR$/bin/first/Test3.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Test4.class" afterPath="$PROJECT_DIR$/bin/first/Test4.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Test6.class" afterPath="$PROJECT_DIR$/bin/first/Test6.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/first/Second.java" afterPath="$PROJECT_DIR$/src/first/Second.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/first/String/Demo.java" afterPath="$PROJECT_DIR$/src/first/String/Demo.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/first/String/GenerateParanthesis.java" afterPath="$PROJECT_DIR$/src/first/String/GenerateParanthesis.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/first/String/LongestPrefix.java" afterPath="$PROJECT_DIR$/src/first/String/LongestPrefix.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/first/String/LongestSubStringWithoutRepeatingCharacters.java" afterPath="$PROJECT_DIR$/src/first/String/LongestSubStringWithoutRepeatingCharacters.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/first/Test2.java" afterPath="$PROJECT_DIR$/src/first/Test2.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/first/Test5.java" afterPath="$PROJECT_DIR$/src/first/Test5.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/first/Test6.java" afterPath="$PROJECT_DIR$/src/first/Test6.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/first/AreaContainer.class" afterPath="$PROJECT_DIR$/bin/first/Array/AreaContainer.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/first/ArrayManipulation.class" afterPath="$PROJECT_DIR$/bin/first/Array/ArrayManipulation.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/first/BuyAndSellStock.class" afterPath="$PROJECT_DIR$/bin/first/Array/BuyAndSellStock.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/first/CountTriplets.class" afterPath="$PROJECT_DIR$/bin/first/Array/CountTriplets.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/first/FirstMissingPositive.class" afterPath="$PROJECT_DIR$/bin/first/Array/FirstMissingPositive.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/first/LeftRotate.class" afterPath="$PROJECT_DIR$/bin/first/LinkedList/LeftRotate.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/first/MaxSubArray.class" afterPath="$PROJECT_DIR$/bin/first/Array/MaxSubArray.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/first/MaximumProductSubarray.class" afterPath="$PROJECT_DIR$/bin/first/Array/MaximumProductSubarray.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/first/MinSubArraySumLength.class" afterPath="$PROJECT_DIR$/bin/first/Array/MinSubArraySumLength.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/first/MinimumInRotatedArray.class" afterPath="$PROJECT_DIR$/bin/first/Array/MinimumInRotatedArray.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/first/NextPermutation.class" afterPath="$PROJECT_DIR$/bin/first/Array/NextPermutation.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/first/RemoveDuplicates.class" afterPath="$PROJECT_DIR$/bin/first/Array/RemoveDuplicates.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/first/SearchInRotatedArray.class" afterPath="$PROJECT_DIR$/bin/first/Array/SearchInRotatedArray.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/bin/first/SortColors.class" afterPath="$PROJECT_DIR$/bin/first/Array/SortColors.class" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/DepthFirstSearch/PhoneNumber.java" afterPath="$PROJECT_DIR$/src/BackTracking/PhoneNumber.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/AreaContainer.java" afterPath="$PROJECT_DIR$/src/first/Array/AreaContainer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/ArrayManipulation.java" afterPath="$PROJECT_DIR$/src/first/Array/ArrayManipulation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/BuyAndSellStock.java" afterPath="$PROJECT_DIR$/src/first/Array/BuyAndSellStock.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/BuyAndSellStock2.java" afterPath="$PROJECT_DIR$/src/first/Array/BuyAndSellStock2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/CombinationSum.java" afterPath="$PROJECT_DIR$/src/BackTracking/CombinationSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/CopyListWithPointer.java" afterPath="$PROJECT_DIR$/src/first/LinkedList/CopyListWithPointer.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/CountTriplets.java" afterPath="$PROJECT_DIR$/src/first/Array/CountTriplets.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/DeleteDuplicates.java" afterPath="$PROJECT_DIR$/src/first/LinkedList/DeleteDuplicates.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/Fifth.java" afterPath="$PROJECT_DIR$/src/first/LinkedList/RotateRight.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/FindPeakElement.java" afterPath="$PROJECT_DIR$/src/first/Array/FindPeakElement.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/First.java" afterPath="$PROJECT_DIR$/src/first/LinkedList/First.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/FirstMissingPositive.java" afterPath="$PROJECT_DIR$/src/first/Array/FirstMissingPositive.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/JumpGame2.java" afterPath="$PROJECT_DIR$/src/first/Array/JumpGame2.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/LeftRotate.java" afterPath="$PROJECT_DIR$/src/first/LinkedList/LeftRotate.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/ListCycle.java" afterPath="$PROJECT_DIR$/src/first/LinkedList/ListCycle.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/MaxSubArray.java" afterPath="$PROJECT_DIR$/src/first/Array/MaxSubArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/MaximumProductSubarray.java" afterPath="$PROJECT_DIR$/src/first/Array/MaximumProductSubarray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/MinSubArraySumLength.java" afterPath="$PROJECT_DIR$/src/first/Array/MinSubArraySumLength.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/MinimumInRotatedArray.java" afterPath="$PROJECT_DIR$/src/first/Array/MinimumInRotatedArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/NextPermutation.java" afterPath="$PROJECT_DIR$/src/first/Array/NextPermutation.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/PartitionList.java" afterPath="$PROJECT_DIR$/src/first/LinkedList/PartitionList1.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/RemoveDuplicates.java" afterPath="$PROJECT_DIR$/src/first/Array/RemoveDuplicates.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/RemoveElement.java" afterPath="$PROJECT_DIR$/src/first/Array/RemoveElement.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/ReverseListNormal.java" afterPath="$PROJECT_DIR$/src/first/LinkedList/ReverseListNormal.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/RotateMatrix.java" afterPath="$PROJECT_DIR$/src/first/Array/RotateMatrix.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/SearchInRotatedArray.java" afterPath="$PROJECT_DIR$/src/first/Array/SearchInRotatedArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/SortColors.java" afterPath="$PROJECT_DIR$/src/first/Array/SortColors.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/SortColour.java" afterPath="$PROJECT_DIR$/src/first/Array/SortColour.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/SortList.java" afterPath="$PROJECT_DIR$/src/first/LinkedList/SortList.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/SortListtoBST.java" afterPath="$PROJECT_DIR$/src/first/LinkedList/SortListtoBST.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/SubsetsOFArray.java" afterPath="$PROJECT_DIR$/src/first/Array/SubsetsOFArray.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/ThreeSum.java" afterPath="$PROJECT_DIR$/src/first/Array/ThreeSum.java" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/TwoSum2.java" afterPath="$PROJECT_DIR$/src/first/Array/TwoSum2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Tester.class" afterPath="$PROJECT_DIR$/bin/first/Tester.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Third$ListNode.class" afterPath="$PROJECT_DIR$/bin/first/Third$ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Third.class" afterPath="$PROJECT_DIR$/bin/first/Third.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/TwoArray.class" afterPath="$PROJECT_DIR$/bin/first/TwoArray.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/UniquePaths.class" afterPath="$PROJECT_DIR$/bin/first/UniquePaths.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/Vehicle.class" afterPath="$PROJECT_DIR$/bin/first/Vehicle.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/employeeFinder.class" afterPath="$PROJECT_DIR$/bin/first/employeeFinder.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/first/printable.class" afterPath="$PROJECT_DIR$/bin/first/printable.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/geeksforgeeks/Arrays/FindMajorityElement.class" afterPath="$PROJECT_DIR$/bin/geeksforgeeks/Arrays/FindMajorityElement.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/geeksforgeeks/Mathematical/MaximumMoney.class" afterPath="$PROJECT_DIR$/bin/geeksforgeeks/Mathematical/MaximumMoney.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/geeksforgeeks/Sorting/BishuAndSoldiers.class" afterPath="$PROJECT_DIR$/bin/geeksforgeeks/Sorting/BishuAndSoldiers.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/geeksforgeeks/Sorting/QuickSort.class" afterPath="$PROJECT_DIR$/bin/geeksforgeeks/Sorting/QuickSort.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/geeksforgeeks/Sorting/SortTheUnSorted.class" afterPath="$PROJECT_DIR$/bin/geeksforgeeks/Sorting/SortTheUnSorted.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/geeksforgeeks/linkedlist/Deletewithoutheadpointer$ListNode.class" afterPath="$PROJECT_DIR$/bin/geeksforgeeks/linkedlist/Deletewithoutheadpointer$ListNode.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/geeksforgeeks/linkedlist/Deletewithoutheadpointer.class" afterPath="$PROJECT_DIR$/bin/geeksforgeeks/linkedlist/Deletewithoutheadpointer.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bin/infosys2.class" afterPath="$PROJECT_DIR$/bin/infosys2.class" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.classpath" afterPath="$PROJECT_DIR$/.classpath" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" afterPath="$PROJECT_DIR$/.settings/org.eclipse.jdt.core.prefs" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/demo2.java" afterPath="$PROJECT_DIR$/src/demo2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/first/Array/IncreasingTripletSubsequence.java" afterPath="$PROJECT_DIR$/src/first/Array/IncreasingTripletSubsequence.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/first/Array/RotateMatrix.java" afterPath="$PROJECT_DIR$/src/first/Array/RotateMatrix.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/first/Array/SplitArray.java" afterPath="$PROJECT_DIR$/src/first/Array/SplitArray.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/first/Array/TwoSum2.java" afterPath="$PROJECT_DIR$/src/first/Array/TwoSum2.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/first/Array/largestNumberPalindrome.java" afterPath="$PROJECT_DIR$/src/first/Array/largestNumberPalindrome.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/first/LinkedList/IsListPalindrome.java" afterPath="$PROJECT_DIR$/src/first/LinkedList/IsListPalindrome.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/first/LinkedList/LinkedListIntersection.java" afterPath="$PROJECT_DIR$/src/first/LinkedList/LinkedListIntersection.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/first/LinkedList/OddEvenLinkedList.java" afterPath="$PROJECT_DIR$/src/first/LinkedList/OddEvenLinkedList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/first/LinkedList/PartitionList.java" afterPath="$PROJECT_DIR$/src/first/LinkedList/PartitionList.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/first/LinkedList/RemoveNthNode.java" afterPath="$PROJECT_DIR$/src/first/LinkedList/RemoveNthNode.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/first/String/LengthOfLastWord.java" afterPath="$PROJECT_DIR$/src/first/String/LengthOfLastWord.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/first/String/LongestParanthesis.java" afterPath="$PROJECT_DIR$/src/first/String/LongestParanthesis.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/first/Test.java" afterPath="$PROJECT_DIR$/src/first/Test.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/infosys2.java" afterPath="$PROJECT_DIR$/src/infosys2.java" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/first/Test5.java" afterPath="$PROJECT_DIR$/src/first/Java8.java" />
     </list>
     <ignored path="$PROJECT_DIR$/bin/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -335,24 +289,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="CombinationSum.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/BackTracking/CombinationSum.java">
+      <file leaf-file-name="RemoveDuplicates.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/first/Array/RemoveDuplicates.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="19">
-              <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+            <state relative-caret-position="650">
+              <caret line="29" column="8" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NQueens.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/BackTracking/NQueens.java">
+      <file leaf-file-name="SortColors.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/first/Array/SortColors.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="304">
-              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="true" />
-              </folding>
+            <state relative-caret-position="314">
+              <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="SortColour.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/first/Array/SortColour.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-261">
+              <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding />
             </state>
           </provider>
         </entry>
@@ -385,57 +347,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/geeksforgeeks/Arrays/FindMajorityElement.java" />
-        <option value="$PROJECT_DIR$/src/first/Array/CountInversionInArray.java" />
-        <option value="$PROJECT_DIR$/src/first/Array/ReverseArray.java" />
-        <option value="$PROJECT_DIR$/src/Sort/MaximumPerformance.java" />
-        <option value="$PROJECT_DIR$/src/Sort/MaximumGap.java" />
-        <option value="$PROJECT_DIR$/src/Sort/CountOfSmallerNumbers.java" />
-        <option value="$PROJECT_DIR$/src/Sort/CountInversionInArray.java" />
-        <option value="$PROJECT_DIR$/src/first/Array/MissingRanges.java" />
-        <option value="$PROJECT_DIR$/src/Demo1.java" />
-        <option value="$PROJECT_DIR$/src/first/String/LongestSubStringWithoutRepeatingCharacters.java" />
-        <option value="$PROJECT_DIR$/src/first/Array/IncreasingTripletSubsequence.java" />
-        <option value="$PROJECT_DIR$/src/first/LinkedList/First.java" />
-        <option value="$PROJECT_DIR$/src/first/LinkedList/SegOddAndEvenNodes.java" />
+        <option value="$PROJECT_DIR$/src/first/Array/JumpGame.java" />
+        <option value="$PROJECT_DIR$/src/DepthFirstSearch/WordLadder2.java" />
+        <option value="$PROJECT_DIR$/src/BackTracking/PalindromePartitioning.java" />
+        <option value="$PROJECT_DIR$/src/Greedy/SplitaStringinBalancedStrings.java" />
+        <option value="$PROJECT_DIR$/src/Greedy/Maximum69Number.java" />
+        <option value="$PROJECT_DIR$/src/first/String/RecursivelyPrintAllSentences.java" />
+        <option value="$PROJECT_DIR$/src/first/LinkedList/IsListPalindrome.java" />
         <option value="$PROJECT_DIR$/src/first/LinkedList/LinkedListIntersection.java" />
+        <option value="$PROJECT_DIR$/src/first/String/IsomorphicStrings.java" />
+        <option value="$PROJECT_DIR$/src/MethodOverloadingAndOverRiding.java" />
         <option value="$PROJECT_DIR$/src/first/LinkedList/OddEvenLinkedList.java" />
-        <option value="$PROJECT_DIR$/src/Greedy/MinimumAndMaximumCandies.java" />
-        <option value="$PROJECT_DIR$/src/Greedy/ChooseAndSwap.java" />
-        <option value="$PROJECT_DIR$/src/first/String/ZigZagConversion.java" />
-        <option value="$PROJECT_DIR$/src/first/String/LongestPrefix.java" />
-        <option value="$PROJECT_DIR$/src/first/String/GenerateParanthesis.java" />
-        <option value="$PROJECT_DIR$/src/first/String/LongestParanthesis.java" />
-        <option value="$PROJECT_DIR$/src/first/String/WildCardMatching.java" />
-        <option value="$PROJECT_DIR$/src/first/String/GroupAnagrams.java" />
+        <option value="$PROJECT_DIR$/src/first/LinkedList/PartitionList.java" />
+        <option value="$PROJECT_DIR$/src/first/LinkedList/RemoveNthNode.java" />
+        <option value="$PROJECT_DIR$/src/first/LinkedList/TreeToDoublyList.java" />
+        <option value="$PROJECT_DIR$/src/first/Array/largestNumberPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/first/String/codingninjas/nextLargestPalindrome.java" />
+        <option value="$PROJECT_DIR$/src/Greedy/MinimizeProductSumofTwoArrays.java" />
+        <option value="$PROJECT_DIR$/src/Greedy/PartitioningIntoMinimumNumberOfDeciBinaryNumbers.java" />
+        <option value="$PROJECT_DIR$/src/Greedy/Nmeetingsinoneroom.java" />
+        <option value="$PROJECT_DIR$/src/first/Array/MergeIntervals.java" />
+        <option value="$PROJECT_DIR$/src/Greedy/MeetingRoomsII.java" />
+        <option value="$PROJECT_DIR$/src/first/Array/IntersectionofTwoArraysII.java" />
+        <option value="$PROJECT_DIR$/src/first/Array/SingleNumber.java" />
+        <option value="$PROJECT_DIR$/src/first/Array/MoveZeroes.java" />
+        <option value="$PROJECT_DIR$/src/first/Array/IncreasingTripletSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/first/String/LongestSubStringWithoutRepeatingCharacters.java" />
+        <option value="$PROJECT_DIR$/src/first/String/IsogramString.java" />
         <option value="$PROJECT_DIR$/src/first/Test5.java" />
-        <option value="$PROJECT_DIR$/src/first/LinkedList/Reverselist1.java" />
-        <option value="$PROJECT_DIR$/src/first/LinkedList/Reverselist.java" />
-        <option value="$PROJECT_DIR$/src/first/String/MinimumWindowSubstring.java" />
-        <option value="$PROJECT_DIR$/src/first/String/LongestSubstringwithAtMostTwoDistinctCharacters.java" />
-        <option value="$PROJECT_DIR$/src/BackTracking/Permutations.java" />
-        <option value="$PROJECT_DIR$/src/first/Array/SplitArray.java" />
-        <option value="$PROJECT_DIR$/src/first/Array/TwoSum2.java" />
-        <option value="$PROJECT_DIR$/src/first/Array/ThreeSum.java" />
-        <option value="$PROJECT_DIR$/src/first/String/LongestPalindromeSubstring.java" />
+        <option value="$PROJECT_DIR$/src/first/String/CountDuplicateCharacters.java" />
+        <option value="$PROJECT_DIR$/src/first/String/FirstNonRepeatedCharacter.java" />
         <option value="$PROJECT_DIR$/src/infosys2.java" />
-        <option value="$PROJECT_DIR$/src/BinarySearch/FindDuplicateNumber.java" />
-        <option value="$PROJECT_DIR$/src/BinarySearch/LongestIncreasingSubsequence.java" />
-        <option value="$PROJECT_DIR$/src/BinarySearch/Books.java" />
-        <option value="$PROJECT_DIR$/src/BinarySearch/FindPairGivenDifference.java" />
-        <option value="$PROJECT_DIR$/src/Infosys1.java" />
-        <option value="$PROJECT_DIR$/src/Threaddemo.java" />
-        <option value="$PROJECT_DIR$/src/first/Test6.java" />
-        <option value="$PROJECT_DIR$/src/BinarySearch/MinimumSwapstoSort.java" />
-        <option value="$PROJECT_DIR$/src/geeksforgeeks/Sorting/BishuAndSoldiers.java" />
-        <option value="$PROJECT_DIR$/src/BinarySearch/PainterPartition.java" />
-        <option value="$PROJECT_DIR$/src/BinarySearch/FindMinInRotatedArray2.java" />
+        <option value="$PROJECT_DIR$/src/first/Test.java" />
+        <option value="$PROJECT_DIR$/src/first/Array/MaximumIndex.java" />
+        <option value="$PROJECT_DIR$/src/first/Array/MaxSumPath.java" />
+        <option value="$PROJECT_DIR$/src/first/Array/FindMissingAndRepeating.java" />
+        <option value="$PROJECT_DIR$/src/first/Array/SumPair.java" />
+        <option value="$PROJECT_DIR$/src/first/Array/ChocolateDistributionProblem.java" />
+        <option value="$PROJECT_DIR$/src/first/Array/LongestConsecutiveSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/first/Array/LongestAlternateSubsequence.java" />
+        <option value="$PROJECT_DIR$/src/first/Java8.java" />
+        <option value="$PROJECT_DIR$/src/first/Array/TwoSum2.java" />
+        <option value="$PROJECT_DIR$/src/first/Array/SplitArray.java" />
+        <option value="$PROJECT_DIR$/src/first/Array/RotateArray.java" />
+        <option value="$PROJECT_DIR$/src/first/Array/ProductofArrayExceptSelf.java" />
+        <option value="$PROJECT_DIR$/src/first/Array/MinimumSizeSubarraySum.java" />
         <option value="$PROJECT_DIR$/src/demo2.java" />
-        <option value="$PROJECT_DIR$/src/DepthFirstSearch/CombinationSum.java" />
-        <option value="$PROJECT_DIR$/src/DepthFirstSearch/NQueens.java" />
-        <option value="$PROJECT_DIR$/src/BackTracking/CombinationSum.java" />
-        <option value="$PROJECT_DIR$/src/BackTracking/NQueens.java" />
-        <option value="$PROJECT_DIR$/src/BackTracking/PhoneNumber.java" />
+        <option value="$PROJECT_DIR$/src/first/Array/PerfectArray.java" />
+        <option value="$PROJECT_DIR$/src/first/String/IsomorphicStrings1.java" />
+        <option value="$PROJECT_DIR$/src/first/String/LengthOfLastWord.java" />
+        <option value="$PROJECT_DIR$/src/first/String/LongestParanthesis.java" />
+        <option value="$PROJECT_DIR$/src/first/Array/MoveZero.java" />
       </list>
     </option>
   </component>
@@ -452,10 +414,10 @@
     </treeState>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="10" />
-    <option name="y" value="20" />
-    <option name="width" value="1346" />
-    <option name="height" value="688" />
+    <option name="x" value="8" />
+    <option name="y" value="16" />
+    <option name="width" value="1242" />
+    <option name="height" value="672" />
   </component>
   <component name="ProjectId" id="1hs4qUSa3vjCTmr3nYC93PDHMol" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -475,8 +437,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="AndroidView" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -493,7 +453,28 @@
               <item name="first" type="b2602c69:ProjectViewProjectNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="BackTracking" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+              <item name="Array" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+              <item name="LinkedList" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="first" type="b2602c69:ProjectViewProjectNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="first" type="462c0819:PsiDirectoryNode" />
+              <item name="String" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="first" type="b2602c69:ProjectViewProjectNode" />
@@ -505,18 +486,14 @@
               <item name="first" type="b2602c69:ProjectViewProjectNode" />
               <item name="first" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Greedy" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="first" type="b2602c69:ProjectViewProjectNode" />
-              <item name="first" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="Demo1.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
+              <item name="demo2.java" type="529ef68f:ClassesTreeStructureProvider$PsiClassOwnerTreeNode" />
             </path>
           </expand>
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
       <pane id="PackagesPane" />
     </panes>
   </component>
@@ -530,8 +507,8 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="copyright" />
-    <property name="SearchEverywhereHistoryKey" value="permu&#9;PSI&#9;JAVA://BackTracking.Permutations&#10;Optio&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Optional.java&#10;Optional&#9;PSI&#9;JAVA://java.util.Optional&#10;httpser&#9;PSI&#9;JAVA://sun.net.httpserver.HttpServerImpl&#10;HttpS&#9;PSI&#9;JAVA://com.sun.net.httpserver.HttpServer&#10;clonea&#9;PSI&#9;JAVA://java.lang.Cloneable&#10;empl&#9;PSI&#9;JAVA://first.Employee&#10;longest&#9;FILE&#9;file://D:/eclipse/first/src/first/String/LongestPalindromeSubstring.java&#10;two&#9;PSI&#9;JAVA://first.Array.TwoSum2&#10;palindrome&#9;PSI&#9;JAVA://first.Array.largestNumberPalindrome&#10;copylist&#9;PSI&#9;JAVA://first.LinkedList.CopyListWithPointer&#10;inte&#9;FILE&#9;file://D:/eclipse/first/src/first/LinkedList/LinkedListIntersection.java&#10;thre&#9;FILE&#9;file://D:/eclipse/first/src/first/Array/ThreeSum.java&#10;merge&#9;FILE&#9;file://D:/eclipse/first/src/Sort/MergeSort.java&#10;sort&#9;FILE&#9;file://D:/eclipse/first/src/geeksforgeeks/Sorting/SortTheUnSorted.java&#10;Comparat&#9;PSI&#9;JAVA://java.util.Comparator&#10;Compa&#9;PSI&#9;JAVA://java.lang.Comparable&#10;combin&#9;FILE&#9;file://D:/eclipse/first/src/DepthFirstSearch/CombinationSum.java&#10;com&#9;PSI&#9;JAVA://DepthFirstSearch.CombinationSum" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="SearchEverywhereHistoryKey" value="empl&#9;PSI&#9;JAVA://first.Employee&#10;left&#9;PSI&#9;JAVA://first.LinkedList.LeftRotate&#10;righ&#9;FILE&#9;file://D:/eclipse/first/src/first/LinkedList/RotateRight.java&#10;rotate&#9;FILE&#9;file://D:/eclipse/first/src/first/Array/MinimumInRotatedArray.java&#10;longest&#9;FILE&#9;file://D:/eclipse/first/src/first/String/LongestSubStringWithoutRepeatingCharacters.java&#10;buy&#9;PSI&#9;JAVA://first.Array.BuyAndSellStock2&#10;bu&#9;PSI&#9;JAVA://first.Array.BuyAndSellStock&#10;longe&#9;PSI&#9;JAVA://first.String.LongestSubStringWithoutRepeatingCharacters&#10;odd&#9;FILE&#9;file://D:/eclipse/first/src/first/LinkedList/OddEvenLinkedList.java&#10;incre&#9;PSI&#9;JAVA://first.Array.IncreasingTripletSubsequence&#10;pali&#9;PSI&#9;JAVA://first.Array.largestNumberPalindrome&#10;jum&#9;FILE&#9;file://D:/eclipse/first/src/first/Array/JumpGame.java&#10;palindro&#9;FILE&#9;file://D:/eclipse/first/src/first/String/LongestPalindromeSubstring.java&#10;jump&#9;PSI&#9;JAVA://first.Array.JumpGame2&#10;Rota&#9;PSI&#9;JAVA://first.Array.RotateMatrix&#10;permu&#9;PSI&#9;JAVA://BackTracking.Permutations&#10;Optio&#9;FILE&#9;jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Optional.java&#10;Optional&#9;PSI&#9;JAVA://java.util.Optional&#10;httpser&#9;PSI&#9;JAVA://sun.net.httpserver.HttpServerImpl&#10;HttpS&#9;PSI&#9;JAVA://com.sun.net.httpserver.HttpServer&#10;clonea&#9;PSI&#9;JAVA://java.lang.Cloneable&#10;two&#9;PSI&#9;JAVA://first.Array.TwoSum2&#10;palindrome&#9;PSI&#9;JAVA://first.Array.largestNumberPalindrome&#10;copylist&#9;PSI&#9;JAVA://first.LinkedList.CopyListWithPointer&#10;inte&#9;FILE&#9;file://D:/eclipse/first/src/first/LinkedList/LinkedListIntersection.java&#10;thre&#9;FILE&#9;file://D:/eclipse/first/src/first/Array/ThreeSum.java&#10;merge&#9;FILE&#9;file://D:/eclipse/first/src/Sort/MergeSort.java&#10;sort&#9;FILE&#9;file://D:/eclipse/first/src/geeksforgeeks/Sorting/SortTheUnSorted.java&#10;Comparat&#9;PSI&#9;JAVA://java.util.Comparator&#10;Compa&#9;PSI&#9;JAVA://java.lang.Comparable&#10;combin&#9;FILE&#9;file://D:/eclipse/first/src/DepthFirstSearch/CombinationSum.java&#10;com&#9;PSI&#9;JAVA://DepthFirstSearch.CombinationSum" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -553,15 +530,15 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.NQueens">
-    <configuration name="BishuAndSoldiers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.SortColors">
+    <configuration name="MoveZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="geeksforgeeks.Sorting.*" />
+          <option name="PATTERN" value="first.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="geeksforgeeks.Sorting.BishuAndSoldiers" />
+      <option name="MAIN_CLASS_NAME" value="first.Array.MoveZero" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -573,14 +550,14 @@
       <module name="first" />
       <envs />
     </configuration>
-    <configuration name="FindMinInRotatedArray2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="ReductorArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="BinarySearch.*" />
+          <option name="PATTERN" value="first.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="BinarySearch.FindMinInRotatedArray2" />
+      <option name="MAIN_CLASS_NAME" value="first.Array.ReductorArray" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -592,14 +569,14 @@
       <module name="first" />
       <envs />
     </configuration>
-    <configuration name="NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="RemoveDuplicates" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="BackTracking.*" />
+          <option name="PATTERN" value="first.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="BackTracking.NQueens" />
+      <option name="MAIN_CLASS_NAME" value="first.Array.RemoveDuplicates" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -611,14 +588,14 @@
       <module name="first" />
       <envs />
     </configuration>
-    <configuration name="PhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SortColors" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
         <pattern>
-          <option name="PATTERN" value="BackTracking.*" />
+          <option name="PATTERN" value="first.Array.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="MAIN_CLASS_NAME" value="BackTracking.PhoneNumber" />
+      <option name="MAIN_CLASS_NAME" value="first.Array.SortColors" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -630,9 +607,14 @@
       <module name="first" />
       <envs />
     </configuration>
-    <configuration name="demo2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
-      <option name="MAIN_CLASS_NAME" value="demo2" />
+    <configuration name="SortColour" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="first.Array.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="MAIN_CLASS_NAME" value="first.Array.SortColour" />
       <option name="VM_PARAMETERS" />
       <option name="PROGRAM_PARAMETERS" />
       <option name="WORKING_DIRECTORY" />
@@ -645,19 +627,19 @@
       <envs />
     </configuration>
     <list size="5">
-      <item index="0" class="java.lang.String" itemvalue="Application.demo2" />
-      <item index="1" class="java.lang.String" itemvalue="Application.FindMinInRotatedArray2" />
-      <item index="2" class="java.lang.String" itemvalue="Application.BishuAndSoldiers" />
-      <item index="3" class="java.lang.String" itemvalue="Application.PhoneNumber" />
-      <item index="4" class="java.lang.String" itemvalue="Application.NQueens" />
+      <item index="0" class="java.lang.String" itemvalue="Application.MoveZero" />
+      <item index="1" class="java.lang.String" itemvalue="Application.ReductorArray" />
+      <item index="2" class="java.lang.String" itemvalue="Application.RemoveDuplicates" />
+      <item index="3" class="java.lang.String" itemvalue="Application.SortColors" />
+      <item index="4" class="java.lang.String" itemvalue="Application.SortColour" />
     </list>
     <recent_temporary>
       <list size="5">
-        <item index="0" class="java.lang.String" itemvalue="Application.NQueens" />
-        <item index="1" class="java.lang.String" itemvalue="Application.PhoneNumber" />
-        <item index="2" class="java.lang.String" itemvalue="Application.demo2" />
-        <item index="3" class="java.lang.String" itemvalue="Application.BishuAndSoldiers" />
-        <item index="4" class="java.lang.String" itemvalue="Application.FindMinInRotatedArray2" />
+        <item index="0" class="java.lang.String" itemvalue="Application.SortColors" />
+        <item index="1" class="java.lang.String" itemvalue="Application.SortColour" />
+        <item index="2" class="java.lang.String" itemvalue="Application.RemoveDuplicates" />
+        <item index="3" class="java.lang.String" itemvalue="Application.ReductorArray" />
+        <item index="4" class="java.lang.String" itemvalue="Application.MoveZero" />
       </list>
     </recent_temporary>
   </component>
@@ -872,37 +854,116 @@
       <workItem from="1625058360297" duration="3840000" />
       <workItem from="1625066348872" duration="8232000" />
       <workItem from="1625110181828" duration="3571000" />
+      <workItem from="1625116894728" duration="7026000" />
+      <workItem from="1625134033440" duration="1359000" />
+      <workItem from="1625193834921" duration="14991000" />
+      <workItem from="1625237577956" duration="410000" />
+      <workItem from="1625409794175" duration="5297000" />
+      <workItem from="1625452327040" duration="16002000" />
+      <workItem from="1625492417737" duration="5356000" />
+      <workItem from="1625556307257" duration="591000" />
+      <workItem from="1625623127030" duration="8449000" />
+      <workItem from="1625655790072" duration="8046000" />
+      <workItem from="1625723543746" duration="11489000" />
+      <workItem from="1625765954110" duration="1733000" />
+      <workItem from="1625800043668" duration="15695000" />
+      <workItem from="1625901752149" duration="4249000" />
+      <workItem from="1625922701788" duration="11166000" />
+      <workItem from="1625975242133" duration="15142000" />
+      <workItem from="1626090126013" duration="6709000" />
+      <workItem from="1626105945036" duration="55000" />
+      <workItem from="1626261510023" duration="2623000" />
+      <workItem from="1626273278541" duration="1913000" />
+      <workItem from="1626319978910" duration="15879000" />
+      <workItem from="1626436978064" duration="590000" />
+      <workItem from="1626503174313" duration="637000" />
+      <workItem from="1626590791563" duration="3773000" />
+      <workItem from="1626603051583" duration="2942000" />
+      <workItem from="1626700921704" duration="8395000" />
+      <workItem from="1626786721808" duration="2028000" />
+      <workItem from="1626799627628" duration="17774000" />
+      <workItem from="1626887977583" duration="587000" />
+      <workItem from="1626922511908" duration="4283000" />
+      <workItem from="1627276527932" duration="4980000" />
+      <workItem from="1627616409499" duration="13759000" />
+      <workItem from="1627658096570" duration="6607000" />
+      <workItem from="1627925089649" duration="3519000" />
+      <workItem from="1627960641846" duration="5797000" />
+      <workItem from="1627973977457" duration="2701000" />
+      <workItem from="1627988285741" duration="2143000" />
+      <workItem from="1628005107030" duration="818000" />
+      <workItem from="1628086863460" duration="32000" />
+      <workItem from="1628251825027" duration="5884000" />
+      <workItem from="1628301406913" duration="903000" />
+      <workItem from="1628309981586" duration="1948000" />
+      <workItem from="1628433677949" duration="1851000" />
+      <workItem from="1628487166653" duration="1424000" />
+      <workItem from="1628789465898" duration="1791000" />
+      <workItem from="1628838233083" duration="654000" />
+      <workItem from="1628863922874" duration="5737000" />
+      <workItem from="1628909719673" duration="3949000" />
+      <workItem from="1629009152256" duration="92000" />
+      <workItem from="1629090717932" duration="226000" />
+      <workItem from="1629109918693" duration="3044000" />
+      <workItem from="1629122546030" duration="1086000" />
+      <workItem from="1629137249903" duration="4685000" />
+      <workItem from="1629397217331" duration="379000" />
+      <workItem from="1629430363582" duration="606000" />
+      <workItem from="1629468686413" duration="16546000" />
+      <workItem from="1629529108896" duration="3526000" />
+      <workItem from="1629601552514" duration="3030000" />
+      <workItem from="1629606634459" duration="64000" />
+      <workItem from="1629606822066" duration="647000" />
+      <workItem from="1630070163058" duration="4298000" />
+      <workItem from="1630115193714" duration="12207000" />
+      <workItem from="1630204233391" duration="2261000" />
+      <workItem from="1630243858163" duration="1176000" />
+      <workItem from="1630312663381" duration="3966000" />
+      <workItem from="1630340489647" duration="7780000" />
+      <workItem from="1630487436903" duration="1134000" />
+      <workItem from="1630492244554" duration="589000" />
+      <workItem from="1630574299055" duration="7746000" />
+      <workItem from="1630682453019" duration="2355000" />
+      <workItem from="1630716085707" duration="4376000" />
+      <workItem from="1630809484643" duration="86000" />
+      <workItem from="1630896456158" duration="12000" />
+      <workItem from="1630896665290" duration="3595000" />
+      <workItem from="1630945130109" duration="166000" />
+      <workItem from="1631161223470" duration="7683000" />
+      <workItem from="1631354062569" duration="725000" />
+      <workItem from="1631355795315" duration="2890000" />
+      <workItem from="1631378590871" duration="618000" />
+      <workItem from="1631622638164" duration="9043000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1117658000" />
+    <option name="totallyTimeSpent" value="1483981000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1382" height="744" extended-state="6" />
-    <editor active="true" />
+    <frame x="-9" y="-9" width="1938" height="1048" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.3289689" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32824427" sideWeight="0.5" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
-      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.15875614" sideWeight="0.5060514" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.23130842" sideWeight="0.49394855" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.018003274" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32894737" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26172465" sideWeight="0.4928717" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.29297298" sideWeight="0.4928717" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
-      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.26051402" sideWeight="0.49394855" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.2193646" sideWeight="0.5081633" order="5" side_tool="true" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.12111293" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -1100,12 +1161,6 @@
           <option name="timeStamp" value="29" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/first/Array/JumpGame2.java</url>
-          <line>5</line>
-          <properties />
-          <option name="timeStamp" value="30" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/first/LinkedList/ReverseListNormal.java</url>
           <line>23</line>
           <properties />
@@ -1208,12 +1263,6 @@
           <option name="timeStamp" value="67" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/first/Array/BuyAndSellStock2.java</url>
-          <line>8</line>
-          <properties />
-          <option name="timeStamp" value="68" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/first/Array/MaximumProductSubarray.java</url>
           <line>4</line>
           <properties />
@@ -1272,12 +1321,6 @@
           <line>4</line>
           <properties />
           <option name="timeStamp" value="95" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/first/LinkedList/IsListPalindrome.java</url>
-          <line>7</line>
-          <properties />
-          <option name="timeStamp" value="96" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/BinarySearch/PainterPartition.java</url>
@@ -1430,12 +1473,6 @@
           <option name="timeStamp" value="146" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/first/LinkedList/LinkedListIntersection.java</url>
-          <line>11</line>
-          <properties />
-          <option name="timeStamp" value="154" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/first/String/ZigZagConversion.java</url>
           <line>6</line>
           <properties />
@@ -1509,8 +1546,210 @@
           <properties />
           <option name="timeStamp" value="190" />
         </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first/Array/RotateMatrix.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="194" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first/Array/JumpGame.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="198" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/DepthFirstSearch/WordLadder2.java</url>
+          <line>17</line>
+          <properties />
+          <option name="timeStamp" value="201" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/BackTracking/PalindromePartitioning.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="204" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Greedy/SplitaStringinBalancedStrings.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="208" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Greedy/Maximum69Number.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="211" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first/String/RecursivelyPrintAllSentences.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="217" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first/LinkedList/IsListPalindrome.java</url>
+          <line>27</line>
+          <properties />
+          <option name="timeStamp" value="218" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first/String/IsomorphicStrings.java</url>
+          <line>25</line>
+          <properties />
+          <option name="timeStamp" value="227" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first/String/IsomorphicStrings1.java</url>
+          <line>10</line>
+          <properties />
+          <option name="timeStamp" value="228" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first/String/IsomorphicStrings1.java</url>
+          <line>29</line>
+          <properties />
+          <option name="timeStamp" value="229" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first/LinkedList/OddEvenLinkedList.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="232" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first/String/codingninjas/nextLargestPalindrome.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="236" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Greedy/MinimizeProductSumofTwoArrays.java</url>
+          <line>6</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="237" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Greedy/PartitioningIntoMinimumNumberOfDeciBinaryNumbers.java</url>
+          <line>35</line>
+          <properties />
+          <option name="timeStamp" value="238" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Greedy/Nmeetingsinoneroom.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="239" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Greedy/MeetingRoomsII.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="241" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first/Array/IntersectionofTwoArraysII.java</url>
+          <line>19</line>
+          <properties />
+          <option name="timeStamp" value="242" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first/Array/MoveZeroes.java</url>
+          <line>6</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="244" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first/Array/BuyAndSellStock2.java</url>
+          <line>4</line>
+          <properties />
+          <option name="timeStamp" value="245" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first/Array/MaximumIndex.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="248" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first/Array/MaxSumPath.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="249" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first/Array/FindMissingAndRepeating.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="251" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first/Array/ChocolateDistributionProblem.java</url>
+          <line>14</line>
+          <properties />
+          <option name="timeStamp" value="253" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first/Array/LongestConsecutiveSubsequence.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="254" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first/Array/LongestAlternateSubsequence.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="255" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first/Array/SplitArray.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="257" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first/Array/MinimumSizeSubarraySum.java</url>
+          <line>6</line>
+          <properties />
+          <option name="timeStamp" value="258" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first/Array/PerfectArray.java</url>
+          <line>9</line>
+          <properties />
+          <option name="timeStamp" value="259" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first/String/LengthOfLastWord.java</url>
+          <line>5</line>
+          <properties />
+          <option name="timeStamp" value="260" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first/String/LongestPalindromeSubstring.java</url>
+          <line>7</line>
+          <properties />
+          <option name="timeStamp" value="261" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first/Array/MoveZero.java</url>
+          <line>13</line>
+          <properties />
+          <option name="timeStamp" value="262" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/first/Array/ReductorArray.java</url>
+          <line>8</line>
+          <properties />
+          <option name="timeStamp" value="263" />
+        </line-breakpoint>
       </breakpoints>
-      <option name="time" value="191" />
+      <option name="time" value="264" />
     </breakpoint-manager>
     <watches-manager />
   </component>
@@ -1519,377 +1758,400 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch/FindDuplicateNumber.java" />
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch/FindPairGivenDifference.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Comparator.java">
+    <entry file="file://$PROJECT_DIR$/src/first/Array/LongestAlternateSubsequence.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="108" column="17" lean-forward="false" selection-start-line="108" selection-start-column="17" selection-end-line="108" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/jre/lib/rt.jar!/sun/net/httpserver/HttpServerImpl.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="152">
-          <caret line="16" column="0" lean-forward="true" selection-start-line="16" selection-start-column="0" selection-end-line="16" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/jre/lib/rt.jar!/com/sun/net/httpserver/HttpServer.class">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="23" column="64" lean-forward="true" selection-start-line="23" selection-start-column="64" selection-end-line="23" selection-end-column="64" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/first/Test6.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="798">
-          <caret line="55" column="13" lean-forward="false" selection-start-line="55" selection-start-column="13" selection-end-line="55" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/infosys2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="247">
-          <caret line="13" column="47" lean-forward="true" selection-start-line="13" selection-start-column="47" selection-end-line="13" selection-end-column="47" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Threaddemo.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="16" column="41" lean-forward="false" selection-start-line="16" selection-start-column="41" selection-end-line="16" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Optional.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="111" column="57" lean-forward="false" selection-start-line="111" selection-start-column="57" selection-end-line="111" selection-end-column="57" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/first/Array/MaxSubArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/first/Array/MaximumProductSubarray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="5" lean-forward="false" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        <state relative-caret-position="184">
+          <caret line="17" column="9" lean-forward="true" selection-start-line="17" selection-start-column="9" selection-end-line="17" selection-end-column="9" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/SortedSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2100">
+          <caret line="107" column="17" lean-forward="false" selection-start-line="107" selection-start-column="17" selection-end-line="107" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/TreeSet.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2800">
+          <caret line="139" column="11" lean-forward="false" selection-start-line="139" selection-start-column="11" selection-end-line="139" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first/Array/ThreeSumClosest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="617">
+          <caret line="38" column="25" lean-forward="false" selection-start-line="38" selection-start-column="16" selection-end-line="38" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first/Array/SingleNumber.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="11" column="19" lean-forward="true" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first/Array/RotateMatrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="325">
+          <caret line="13" column="34" lean-forward="true" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="34" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first/Array/ChocolateDistributionProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="544">
+          <caret line="25" column="44" lean-forward="false" selection-start-line="25" selection-start-column="44" selection-end-line="25" selection-end-column="44" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/first/Array/MinimumInRotatedArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort/ReverseArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="38">
-          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/Sort/WaveArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/first/Array/CountTriplets.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="133">
-          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/first/Array/ArrayManipulation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-266">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/first/Array/largestNumberPalindrome.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="7" column="28" lean-forward="true" selection-start-line="7" selection-start-column="28" selection-end-line="7" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/first/Array/MinSubArraySumLength.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/first/Array/NextPermutation.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/first/Array/ReductorArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        <state relative-caret-position="375">
+          <caret line="15" column="38" lean-forward="true" selection-start-line="15" selection-start-column="38" selection-end-line="15" selection-end-column="38" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/first/Array/SearchInRotatedArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        <state relative-caret-position="400">
+          <caret line="16" column="35" lean-forward="true" selection-start-line="16" selection-start-column="35" selection-end-line="16" selection-end-column="35" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first/Array/IncreasingTripletSubsequence.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="66" lean-forward="true" selection-start-line="16" selection-start-column="66" selection-end-line="16" selection-end-column="66" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/first/Array/SplitArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="27" lean-forward="true" selection-start-line="9" selection-start-column="27" selection-end-line="9" selection-end-column="27" />
+        <state relative-caret-position="50">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first/Array/MaxSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/first/Array/SubsetsOFArray.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        <state relative-caret-position="250">
+          <caret line="11" column="61" lean-forward="false" selection-start-line="11" selection-start-column="61" selection-end-line="11" selection-end-column="61" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/first/Array/RemoveDuplicates.java">
+    <entry file="file://$PROJECT_DIR$/src/first/Array/CountTriplets.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="7" column="13" lean-forward="false" selection-start-line="7" selection-start-column="13" selection-end-line="7" selection-end-column="13" />
+        <state relative-caret-position="66">
+          <caret line="16" column="13" lean-forward="false" selection-start-line="16" selection-start-column="13" selection-end-line="16" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first/Array/JumpGame.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="50">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Collections.java">
+    <entry file="file://$PROJECT_DIR$/src/first/Array/MoveZeroes.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="99">
-          <caret line="491" column="23" lean-forward="false" selection-start-line="491" selection-start-column="23" selection-end-line="491" selection-end-column="23" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch/IndexOfFirstOccurrence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="57">
-          <caret line="3" column="35" lean-forward="false" selection-start-line="3" selection-start-column="35" selection-end-line="3" selection-end-column="35" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch/Books.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="10" column="44" lean-forward="false" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="44" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch/MatrixMedian.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="285">
-          <caret line="15" column="30" lean-forward="true" selection-start-line="15" selection-start-column="30" selection-end-line="15" selection-end-column="30" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Arrays.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="1899" column="45" lean-forward="true" selection-start-line="1899" selection-start-column="45" selection-end-line="1899" selection-end-column="45" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch/LongestIncreasingSubsequence.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="9" column="51" lean-forward="false" selection-start-line="9" selection-start-column="51" selection-end-line="9" selection-end-column="51" />
+        <state relative-caret-position="325">
+          <caret line="13" column="37" lean-forward="false" selection-start-line="13" selection-start-column="37" selection-end-line="13" selection-end-column="37" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BinarySearch/SearchRange.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="760">
-          <caret line="40" column="13" lean-forward="false" selection-start-line="40" selection-start-column="13" selection-end-line="40" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="100">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BinarySearch/MinimumSwapstoSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="23" column="31" lean-forward="false" selection-start-line="23" selection-start-column="31" selection-end-line="23" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/function/Supplier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="280">
-          <caret line="40" column="17" lean-forward="false" selection-start-line="40" selection-start-column="17" selection-end-line="40" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/concurrent/CompletableFuture.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="115">
-          <caret line="1812" column="61" lean-forward="true" selection-start-line="1812" selection-start-column="61" selection-end-line="1812" selection-end-column="61" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Comparable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="172">
-          <caret line="130" column="6" lean-forward="true" selection-start-line="130" selection-start-column="6" selection-end-line="130" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/String.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="134">
-          <caret line="110" column="25" lean-forward="true" selection-start-line="110" selection-start-column="25" selection-end-line="110" selection-end-column="25" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/BinarySearch/PainterPartition.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="7" column="29" lean-forward="false" selection-start-line="7" selection-start-column="29" selection-end-line="7" selection-end-column="29" />
+        <state relative-caret-position="100">
+          <caret line="8" column="13" lean-forward="false" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/System.java">
+    <entry file="file://$PROJECT_DIR$/src/BinarySearch/MatrixMedian.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="194">
-          <caret line="58" column="19" lean-forward="false" selection-start-line="58" selection-start-column="19" selection-end-line="58" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Cloneable.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="545">
-          <caret line="52" column="28" lean-forward="true" selection-start-line="52" selection-start-column="28" selection-end-line="52" selection-end-column="28" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/demo2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="26" column="0" lean-forward="true" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
-          <folding />
+        <state relative-caret-position="37">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/BinarySearch/FindMinInRotatedArray2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="16" column="44" lean-forward="false" selection-start-line="16" selection-start-column="44" selection-end-line="16" selection-end-column="44" />
+        <state relative-caret-position="50">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first/LinkedList/RotateRight.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-75">
+          <caret line="9" column="34" lean-forward="true" selection-start-line="9" selection-start-column="34" selection-end-line="9" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first/LinkedList/LeftRotate.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="350">
+          <caret line="24" column="22" lean-forward="true" selection-start-line="24" selection-start-column="22" selection-end-line="24" selection-end-column="22" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Deque.java">
+    <entry file="file://$PROJECT_DIR$/src/first/Array/ProductofArrayExceptSelf.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="128">
-          <caret line="295" column="6" lean-forward="false" selection-start-line="295" selection-start-column="6" selection-end-line="295" selection-end-column="6" />
+        <state relative-caret-position="325">
+          <caret line="13" column="9" lean-forward="true" selection-start-line="13" selection-start-column="9" selection-end-line="13" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first/Array/RotateArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="26" lean-forward="true" selection-start-line="4" selection-start-column="26" selection-end-line="4" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first/Array/MaxSumPath.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="359">
+          <caret line="39" column="0" lean-forward="false" selection-start-line="39" selection-start-column="0" selection-end-line="39" selection-end-column="0" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/NumberFormatException.java">
+    <entry file="file://$PROJECT_DIR$/src/first/Array/TwoSum2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="703">
-          <caret line="64" column="0" lean-forward="false" selection-start-line="64" selection-start-column="0" selection-end-line="64" selection-end-column="0" />
+        <state relative-caret-position="450">
+          <caret line="18" column="30" lean-forward="false" selection-start-line="18" selection-start-column="30" selection-end-line="18" selection-end-column="30" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BackTracking/Permutations.java">
+    <entry file="file://$PROJECT_DIR$/src/first/Array/MinimumSizeSubarraySum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="589">
-          <caret line="33" column="28" lean-forward="true" selection-start-line="33" selection-start-column="28" selection-end-line="33" selection-end-column="28" />
+        <state relative-caret-position="189">
+          <caret line="17" column="12" lean-forward="false" selection-start-line="17" selection-start-column="12" selection-end-line="17" selection-end-column="12" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BackTracking/PhoneNumber.java">
+    <entry file="file://$PROJECT_DIR$/src/first/Array/ThreeSum.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="332">
-          <caret line="34" column="22" lean-forward="true" selection-start-line="34" selection-start-column="22" selection-end-line="34" selection-end-column="22" />
-          <folding />
+        <state relative-caret-position="375">
+          <caret line="15" column="17" lean-forward="false" selection-start-line="15" selection-start-column="17" selection-end-line="15" selection-end-column="17" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BackTracking/CombinationSum.java">
+    <entry file="file://$PROJECT_DIR$/src/first/Test6.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="19">
-          <caret line="6" column="13" lean-forward="false" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
-          <folding />
+        <state relative-caret-position="1100">
+          <caret line="57" column="33" lean-forward="false" selection-start-line="57" selection-start-column="33" selection-end-line="57" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/Integer.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/Comparator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="190">
-          <caret line="613" column="22" lean-forward="false" selection-start-line="613" selection-start-column="22" selection-end-line="613" selection-end-column="22" />
-          <folding />
+        <state relative-caret-position="10775">
+          <caret line="463" column="69" lean-forward="false" selection-start-line="463" selection-start-column="69" selection-end-line="463" selection-end-column="69" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Greedy/MinimumAndMaximumCandies.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/function/Function.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="4" column="37" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="37" />
-          <folding />
+        <state relative-caret-position="273">
+          <caret line="48" column="6" lean-forward="false" selection-start-line="48" selection-start-column="6" selection-end-line="48" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/geeksforgeeks/Sorting/BishuAndSoldiers.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/stream/ReferencePipeline.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-247">
-          <caret line="5" column="51" lean-forward="false" selection-start-line="5" selection-start-column="36" selection-end-line="5" selection-end-column="51" />
-          <folding />
+        <state relative-caret-position="187">
+          <caret line="477" column="33" lean-forward="false" selection-start-line="477" selection-start-column="33" selection-end-line="477" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Greedy/ChooseAndSwap.java">
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/stream/Stream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="171">
-          <caret line="14" column="45" lean-forward="true" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
-          <folding />
+        <state relative-caret-position="25">
+          <caret line="606" column="6" lean-forward="false" selection-start-line="606" selection-start-column="6" selection-end-line="606" selection-end-column="6" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/BackTracking/NQueens.java">
+    <entry file="file://$PROJECT_DIR$/src/demo2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="304">
-          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+        <state relative-caret-position="516">
+          <caret line="75" column="47" lean-forward="false" selection-start-line="75" selection-start-column="47" selection-end-line="75" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/eclipse-jee-oxygen-3-win32-x86_64/JDBC-Tutorial-master/src/net/javaguides/jdbc/hsqldb/crud/HSQLDBCreateExample.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="500">
+          <caret line="22" column="51" lean-forward="false" selection-start-line="22" selection-start-column="51" selection-end-line="22" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/util/stream/Collectors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="850" column="31" lean-forward="false" selection-start-line="850" selection-start-column="31" selection-end-line="850" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first/Array/PerfectArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="203">
+          <caret line="12" column="19" lean-forward="false" selection-start-line="12" selection-start-column="19" selection-end-line="12" selection-end-column="19" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first/Java8.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="200">
+          <caret line="12" column="29" lean-forward="false" selection-start-line="12" selection-start-column="29" selection-end-line="12" selection-end-column="29" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first/String/LongestPalindromeSubstring.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="657">
+          <caret line="27" column="0" lean-forward="false" selection-start-line="27" selection-start-column="0" selection-end-line="27" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first/String/IsomorphicStrings.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-50">
+          <caret line="2" column="13" lean-forward="false" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first/String/LengthOfLastWord.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="6" column="21" lean-forward="false" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first/String/IsomorphicStrings1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="850">
+          <caret line="41" column="38" lean-forward="false" selection-start-line="41" selection-start-column="38" selection-end-line="41" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first/String/LongestSubstringwithAtMostTwoDistinctCharacters.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="100">
+          <caret line="4" column="13" lean-forward="false" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first/String/LongestParanthesis.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="125">
+          <caret line="5" column="13" lean-forward="false" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_111/src.zip!/java/lang/String.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="40725">
+          <caret line="1696" column="15" lean-forward="false" selection-start-line="1696" selection-start-column="15" selection-end-line="1696" selection-end-column="15" />
+          <folding>
+            <element signature="e#66457#66458#0" expanded="false" />
+            <element signature="e#66495#66496#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first/String/LongestPrefix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="400">
+          <caret line="16" column="25" lean-forward="true" selection-start-line="16" selection-start-column="25" selection-end-line="16" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first/Array/MoveZero.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="355">
+          <caret line="32" column="38" lean-forward="false" selection-start-line="32" selection-start-column="38" selection-end-line="32" selection-end-column="38" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first/Array/ReductorArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="374">
+          <caret line="20" column="23" lean-forward="false" selection-start-line="20" selection-start-column="17" selection-end-line="20" selection-end-column="23" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first/Array/RemoveDuplicates.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="29" column="8" lean-forward="false" selection-start-line="29" selection-start-column="8" selection-end-line="29" selection-end-column="8" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first/Array/SortColour.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-261">
+          <caret line="11" column="13" lean-forward="false" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/first/Array/SortColors.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="314">
+          <caret line="16" column="28" lean-forward="false" selection-start-line="16" selection-start-column="28" selection-end-line="16" selection-end-column="28" />
+          <folding />
         </state>
       </provider>
     </entry>

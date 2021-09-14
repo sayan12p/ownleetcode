@@ -4,18 +4,22 @@ import java.util.Arrays;
 
 public class largestNumberPalindrome {
     public static boolean isPalindrome(int n){
-        int divisor=1;
-        while(n/divisor>=10)
-            divisor=divisor*10;
-            while (n != 0) {
-            int leading=n/divisor;
-            int trailing=n%10;
-            if(leading!=trailing) return  false;
-            n=(n%divisor)/10;
-            divisor=divisor/100;
-            }
+        int originalNum = n;
+        int reversedNum=0;
+        int remainder=0;
+        // get the reverse of originalNum
+        // store it in variable
+        while (n != 0) {
+            remainder = n % 10;
+            reversedNum = reversedNum * 10 + remainder;
+            n /= 10;
+        }
 
-        return true;
+        // check if reversedNum and originalNum are equal
+        if (originalNum == reversedNum) {
+            return true;
+        }
+        else return false;
     }
     public static int checkPalindrome(int[] array){
         Arrays.sort(array);

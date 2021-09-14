@@ -3,12 +3,20 @@ package first.Array;
 public class SplitArray {
     //binarysearch
     public static int splitArray(int[] nums, int m) {
-    int l=0;
-    int r=Integer.MAX_VALUE;
-    while(l<r){
+        int l=0;
+        int r=0;
+        for(int i=0;i<nums.length;i++){
+            r+=nums[i];
+            if(l<nums[i]){
+                l=nums[i];
+            }
+        }
+
+    while(l<=r){
         int mid=(l+r)/2;
         if(ok(mid,nums,m)){
-            r=mid;
+            //r=mid;
+            r=mid-1;
         }
         else{
             l=mid+1;
@@ -35,7 +43,7 @@ public class SplitArray {
     }
 
     public static void main(String[] args) {
-        int[] nums={1,2,3,4,5};
+        int[] nums={7,2,5,10,8};
         int m=2;
         System.out.println(splitArray(nums,m));
     }

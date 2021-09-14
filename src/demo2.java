@@ -1,35 +1,80 @@
-import com.sun.deploy.util.ArrayUtil;
-import com.sun.org.apache.xpath.internal.SourceTree;
-
 import java.util.*;
-import java.util.concurrent.CompletableFuture;
+import java.util.function.BinaryOperator;
+import java.util.stream.Collectors;
+import java.util.stream.IntStream;
+import java.util.stream.Stream;
 
- interface demo1 {
-  default String hop(){
-      return "hopping";
-  }
-  static int getctof(int ctemp){
-      return ctemp*9;
-  }
+class Employee {
+    private String name;
+    private String address;
+    private int department;
+    private double salary;
 
- }
-public class demo2 implements demo1{
+    public double getSalary() {
+        return salary;
+    }
 
+    public void setSalary(double salary) {
+        this.salary = salary;
+    }
 
-     /*String hop(){
-         return "hop";
-     }*/
-     void go(){
-         System.out.println(hop());
-         System.out.println(demo1.getctof(100));
-     }
+    public int getDepartment() {
+        return department;
+    }
+
+    public void setDepartment(int department) {
+        this.department = department;
+    }
+
+    public String getName() {
+        return name;
+    }
+
+    public void setName(String name) {
+        this.name = name;
+    }
+
+    public String getAddress() {
+        return address;
+    }
+
+    public void setAddress(String address) {
+        this.address = address;
+    }
+
+    @Override
+    public String toString() {
+        return "Employee{" +
+                "name='" + name + '\'' +
+                ", address='" + address + '\'' +
+                ", department=" + department +
+                ", salary=" + salary +
+                '}';
+    }
+}
+public class demo2{
 
 
     public static void main(String[] args) {
-    new demo2().go();
-
-
+        Integer[] numbers={1,2,3,4,5,6,8,9};
+        Employee emp=new Employee();
+        emp.setName("sayan");
+        emp.setAddress("zangalore");
+        emp.setDepartment(10);
+        emp.setSalary(107658);
+        Employee emp1=new Employee();
+        emp1.setAddress("kolkata");
+        emp1.setName("sayan");
+        emp1.setDepartment(10);
+        emp1.setSalary(155687);
+        List<Employee> list=new ArrayList<>();
+        list.add(emp);
+        list.add(emp1);
+        System.out.println( Arrays.stream(numbers).map(x->x*2).collect(Collectors.toList()));
+        // find developer with highest pay
+        BinaryOperator<Employee> employeeBinaryOperator = BinaryOperator.minBy(Comparator.comparing(Employee::getSalary));
+        Employee employee =  list.stream().reduce(emp,employeeBinaryOperator);
+        //System.out.println(employee.toString());
     }
-
 
 }

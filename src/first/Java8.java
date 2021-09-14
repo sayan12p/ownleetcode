@@ -6,7 +6,7 @@ import java.util.stream.Collectors;
 import java.util.stream.IntStream;
 import java.util.stream.Stream;
 
-public class Test5 {
+public class Java8 {
     public static void main(String[] args) {
         Map<Integer,String> map=new HashMap<>();
         map.put(1,"sayan");
@@ -35,7 +35,7 @@ public class Test5 {
         IntStream stream = numberlist.stream().mapToInt(i->i);
         int s=stream.min().getAsInt();
         IntStream intStream=Arrays.stream(new int[]{4,5,6});
-        int resultto=intStream.filter(x->x>5).reduce((left, right) -> left+7).getAsInt();
+        int resultto=intStream.filter(x->x>5).reduce((left,right) -> left+7).getAsInt();
         System.out.println(resultto);
         HashMap<String,Integer> hashMap=new HashMap<>();
         hashMap.put("sayan",1);
@@ -56,4 +56,6 @@ public class Test5 {
         }
         System.out.println(numset);
     }
+    /*Comparator<Person> comparator = Comparator.comparing(person -> person.name);
+    comparator = comparator.thenComparing(Comparator.comparing(person -> person.age));*/
 }

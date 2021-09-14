@@ -16,7 +16,7 @@ public class IncreasingTripletSubsequence {
             else if(n<=second_num){
                 second_num=n;// to find the second smallest number
             }
-            else return true;// we have found the third ssmallest number hence return true
+            else return true;// we have found the third smallest number hence return true
         }
         return false;
     }

@@ -14,7 +14,7 @@ public class RotateMatrix {
                 matrix[j][i]=temp;
             }
         }
-        ///two pointer approach to swap the beginning and the ending elements of one column till it reaches the middle
+        ///two pointer approach to swap the beginning and the ending elements of one row till it reaches the middle
         for(int i=0;i<n;i++){
             for(int j=0;j<(n/2);j++){
                 int temp=matrix[i][j];

@@ -1,32 +1,22 @@
+import java.util.ArrayList;
+import java.util.Arrays;
+import java.util.List;
+
 public class infosys2 {
-    private static boolean checkPalindrome(int n){
-        int original=n;
-        int rem=0;
-        int rev=0;int sum=0;
-        while(n!=0){
-            rem=n%10;
-            rev=rev*10+rem;
-            n=n/10;
-        }
-        sum=original+rev;
-       return isPalindrome(sum);
-    }
-    public static  boolean isPalindrome(int n){
-     int divisor=1;
-     while(n/divisor>=10){
-         divisor=divisor*10;
-     }
-     while(n!=0){
-         int leading=n/divisor;
-         int trailing=n%10;
-         if(leading!=trailing) return false;
-         n=(n%divisor)/10;
-         divisor=divisor/100;
-     }
-     return true;
+    public static int[] sumArr(int arr[], int n)
+    {
+        // TERMINATING CONDITION.
+        // if we are first element, don't do anything
+        if(n<=1){ return null; }
+        // Add all prev elements for first n-1 elements
+        sumArr(arr, n-1);
+        // With problem solved till (n-1),
+        // we just need to add (n-1)th element to n'th element
+        arr[n-1] += arr[n-2];
+        return arr;
     }
     public static void main(String[] args) {
-    int n=124;
-        System.out.println(checkPalindrome(n));
+        System.out.println(Arrays.toString(sumArr(new int[]{7, 3, 4,6,9},5)));
+
     }
 }

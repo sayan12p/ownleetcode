@@ -24,7 +24,7 @@ public class LongestParanthesis {
 }
 
     public static void main(String[] args) {
-        String s="))";
+        String s="))()";
         System.out.println(longestValidParentheses(s));
     }
 }
