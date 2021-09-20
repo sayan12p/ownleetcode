@@ -11,7 +11,9 @@ public class SubstringWithConcatenationOffAllWords {
         return null;
         Map<String,Integer> map=new HashMap<>();
         for(String word:words){
-            map.put(word,map.getOrDefault(word,0)+1);
+            if(!map.containsKey(word))
+            map.put(word,1);
+            else map.put(word,map.get(word)+1);
         }
         int wordslength=words[0].length();
         int wordCount=words.length;
@@ -24,7 +26,7 @@ public class SubstringWithConcatenationOffAllWords {
                 if(!map.containsKey(word))
                     break;
                 seenWords.put(word,seenWords.getOrDefault(word,0)+1);
-                if(seenWords.get(word)>map.getOrDefault(word,0)+1)
+                if(seenWords.get(word)>map.get(word))
                     break;
                 if(j+1==wordCount){
                     result.add(i);
@@ -34,8 +36,8 @@ public class SubstringWithConcatenationOffAllWords {
         return result;
     }
     public static void main(String[] args) {
-        String s="barfoothefoobarman";
-        String words[]={"foo","bar"};
+        String s="barfoofoobarthefoobarman";
+        String words[]={"bar","foo","the"};
         System.out.println(findSubstring(s,words).toString());
     }
 }

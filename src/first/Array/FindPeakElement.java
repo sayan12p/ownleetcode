@@ -22,7 +22,7 @@ public class FindPeakElement {
         return false;
     }
     public static void main(String[] args) {
-    int[] nums={1,2,3,1};
+    int[] nums={1,2,3,1,76,45,67,78,45};
         System.out.println(findPeakElement(nums));
     }
 }
