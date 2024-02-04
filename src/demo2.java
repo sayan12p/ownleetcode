@@ -67,14 +67,21 @@ public class demo2{
         emp1.setName("sayan");
         emp1.setDepartment(10);
         emp1.setSalary(155687);
+        Employee emp2=new Employee();
+        emp2.setAddress("kolkata");
+        emp2.setName("shubham");
+        emp2.setDepartment(10);
+        emp2.setSalary(155687);
         List<Employee> list=new ArrayList<>();
         list.add(emp);
         list.add(emp1);
+        list.add(emp2);
         System.out.println( Arrays.stream(numbers).map(x->x*2).collect(Collectors.toList()));
         // find developer with highest pay
         BinaryOperator<Employee> employeeBinaryOperator = BinaryOperator.minBy(Comparator.comparing(Employee::getSalary));
         Employee employee =  list.stream().reduce(emp,employeeBinaryOperator);
-        //System.out.println(employee.toString());
+        Map<String,Double> map=list.stream().collect(Collectors.groupingBy(e->e.getName(),Collectors.summingDouble(Employee::getSalary)));
+        System.out.println(map);
     }
 
 }

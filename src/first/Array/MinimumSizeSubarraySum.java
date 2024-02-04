@@ -5,23 +5,24 @@ import java.util.Arrays;
 public class MinimumSizeSubarraySum {
     public static int minSubArrayLen(int target, int[] nums) {
         Arrays.sort(nums);
-        int l=0;
+        int i=0;
         int sum=0;
-        int r=nums.length-1;
-        while(l<r){
-           sum=nums[l]+nums[r];
-           if(sum<target){
-               l++;
-           }
-           else if(sum>target){
-               r--;
-           }
-           else return (r-l);
+        int j=0;
+        int n=nums.length;int minlen=n+1;
+        while(j<n){
+            sum+=nums[j];
+            while(sum>=target){
+                int len=j-i+1;
+                minlen=Math.min(len,minlen);
+                sum-=nums[i];
+                i++;
+            }
+            j++;
         }
-        return 0;
+        return minlen;
     }
     public static void main(String[] args) {
-        int[] nums=new int[]{2,3,1,2,4,3};
-        System.out.println(minSubArrayLen(7,nums));
+        int[] nums=new int[]{1,2,3,4,5};
+        System.out.println(minSubArrayLen(11,nums));
     }
 }
