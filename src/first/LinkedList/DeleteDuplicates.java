@@ -18,32 +18,16 @@ public class DeleteDuplicates {
     public static ListNode DeleteDuplicates(ListNode head){
     if(head==null)
         return null;
-    ListNode dummyhead=new ListNode(head.val);
-    dummyhead.next=head;
-    ListNode first=dummyhead;
-    ListNode second=dummyhead.next;
-    Integer elemnetremove=null;
-    while(second!=null && second.next!=null) {
-        if (second.val == second.next.val) {
-            elemnetremove = second.val;
-        }
-        if (elemnetremove != null && second.val == elemnetremove) {
-            second = second.next;
-            first.next = second;
-        } else {
-            first = first.next;
-            second = second.next;
+    for( ListNode node = head; node!=null; node=node.next){
+        while(node.next!=null && node.val==node.next.val){
+            node.next=node.next.next;
         }
     }
-    if(elemnetremove!=null && first.next.val==elemnetremove && first.next!=null){
-        first.next=null;
-    }
-
-    return dummyhead.next;
+    return head;
     }
     public static void main(String args[]){
         ListNode node1 = new ListNode(1, new ListNode(1,new ListNode(2, new ListNode(2
-                , new ListNode(4, new ListNode(5,null))))));
+                , new ListNode(4, new ListNode(5,new ListNode(5,null)))))));
         //ListNode node2 = new ListNode(5, new ListNode(6, new ListNode(4, null)));
         ListNode  resultnode=DeleteDuplicates(node1);
         System.out.println(resultnode.toString());

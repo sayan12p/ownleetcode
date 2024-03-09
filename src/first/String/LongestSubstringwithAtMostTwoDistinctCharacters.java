@@ -24,11 +24,12 @@ public class LongestSubstringwithAtMostTwoDistinctCharacters {
                 }
             }
         }
+
         max = Math.max(max, s.length()-start);
         return max;
     }
     public static void main(String[] args) {
-        String s="eceba";
+        String s="ninjacoder";
         System.out.println(lengthOfLongestSubstringTwoDistinct(s));
     }
 }

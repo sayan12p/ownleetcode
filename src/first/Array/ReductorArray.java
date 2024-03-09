@@ -14,7 +14,7 @@ public class ReductorArray {
         for (int i = 1; i < array1.length; i++) {
             for (int j = 1; j < array2.length; j++) {
                 min = Math.abs(array1[i] - array2[j]);
-                if (min <= d) {
+                if (min >= d) {
                     result.add(min);
                 }
             }
