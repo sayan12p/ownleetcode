@@ -13,6 +13,7 @@ public class infosys2 {
         // With problem solved till (n-1),
         // we just need to add (n-1)th element to n'th element
         arr[n-1] += arr[n-2];
+        System.out.println("hello");
         return arr;
     }
     public static void main(String[] args) {

@@ -3,6 +3,7 @@ package first;
 
 
 import java.util.*;
+import java.util.function.Function;
 import java.util.stream.Collectors;
 
 public class Test {
@@ -11,12 +12,33 @@ public class Test {
         public String name;
         public List<String> skills;
 
-    public Employee(){}
+        public String getId() {
+            return id;
+        }
+
+        public String getName() {
+            return name;
+        }
+
+        public List<String> getSkills() {
+            return skills;
+        }
+
+        public Employee(){}
 
         public Employee(String id, String name, List<String> skills) {
             this.id = id;
             this.name = name;
             this.skills = skills;
+        }
+
+        @Override
+        public String toString() {
+            return "Employee{" +
+                    "id='" + id + '\'' +
+                    ", name='" + name + '\'' +
+                    ", skills=" + skills +
+                    '}';
         }
     }
 
@@ -28,8 +50,11 @@ public class Test {
         set.add(list.get(0).skills);
         set.add(list.get(1).skills);
         set.add(list.get(2).skills);
-        System.out.println(set.stream().flatMap(p->p.stream()).collect(Collectors.toSet()));
-
+        Map<String, List<List<String>>> collect = list.stream().filter(s->s.getSkills().stream().anyMatch(i->i.contains("c++")))
+                .map(e -> new AbstractMap.SimpleEntry<>(e.getName(), e.getSkills()))
+                .collect(Collectors.groupingBy(Map.Entry::getKey,
+                        Collectors.mapping(Map.Entry::getValue, Collectors.toList())));
+        System.out.println(collect);
     }
     }
 
