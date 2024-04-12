@@ -6,7 +6,7 @@ public class MaximumProductSubarray {
         for(int i=0;i<nums.length;i++){
             int max=nums[i];
             for(int j=i+1;j<nums.length;j++){
-                result=Math.max(max,result);
+                //result=Math.max(max,result);
                 max=max*nums[j];
             }
             result=Math.max(max,result);
@@ -15,7 +15,7 @@ public class MaximumProductSubarray {
         return result;
     }
     public static void main(String[] args) {
-        int nums[]={2,3,-2,4};
+        int nums[]={-2,3,2,4};
         System.out.println(findProductSubarray(nums));
     }
 }
