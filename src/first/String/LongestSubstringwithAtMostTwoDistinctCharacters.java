@@ -29,7 +29,7 @@ public class LongestSubstringwithAtMostTwoDistinctCharacters {
         return max;
     }
     public static void main(String[] args) {
-        String s="ninjacoder";
+        String s="ccaabbb";
         System.out.println(lengthOfLongestSubstringTwoDistinct(s));
     }
 }

@@ -10,8 +10,8 @@ public class RecursivelyPrintAllSentences {
 
         boolean[] visited=new boolean[input.length];
         List<List<String>> result=new ArrayList<>();
-            print(input, 0,new ArrayList<>(),result,visited);
-
+        print(input, 0,new ArrayList<>(),result,visited);
+        System.out.println(result);
         return null;
     }
 
@@ -22,18 +22,18 @@ public class RecursivelyPrintAllSentences {
             result.add(new ArrayList<>(subset));
            return;
         }
-        for(;i<words[i].length;i++){
+        for(;i<words[0].length;i++){
             if(words[row][i]!=""){
                 subset.add(words[row][i]);
                 print(words,row+1,subset,result,visited);
                 subset.remove(subset.size()-1);
             }
-            if(i==words[i].length-1) {
-                subset.remove(subset.size()-1);
-                i=0;
-                row=row-1;
-                visited[i]=true;
-            }
+//            if(i==words[i].length-1) {
+//                subset.remove(subset.size()-1);
+//                i=0;
+//                row=row-1;
+//                visited[i]=true;
+//            }
           }
 
 

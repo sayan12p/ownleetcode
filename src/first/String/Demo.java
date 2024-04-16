@@ -8,8 +8,14 @@ public class Demo {
 
 
     public static void main(String[] args) {
-/*5,7,9,11,15
-        1,3,5,7,17,19*/
+        String s="testis";
+        for(int i=0;i<s.length();i++){
+            String substr="";
+            for(int j=i;j<s.length();j++){
+                substr+=s.charAt(j);
+                System.out.println(substr);
+            }
+        }
     }
 }
 

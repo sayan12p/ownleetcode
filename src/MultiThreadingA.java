@@ -8,7 +8,7 @@ class Hello {
         String name = Thread.currentThread().getName();
             synchronized (this) {
 //                System.out.println("hello arun " + name);
-                for(int i=0;i<10;i++)
+                for(int i=0;i<=10;i++)
                 if(i%2==0) System.out.println("value "+ i);
                 flag = !flag;
                 wait();
@@ -20,7 +20,7 @@ class Hello {
         String name = Thread.currentThread().getName();
             synchronized (this) {
                 //System.out.println("hello sayan " + name);
-                for(int i=0;i<10;i++)
+                for(int i=0;i<=10;i++)
                 if(i%2!=0) System.out.println("value "+ i);
                 flag = !flag;
                 notify();
@@ -33,14 +33,14 @@ public class MultiThreadingA {
         Hello h=new Hello();
         Thread t1=new Thread(()-> {
             try {
-                h.printArun();
+                h.printSayan();
             } catch (InterruptedException e) {
                 throw new RuntimeException(e);
             }
         });
         Thread t2=new Thread(()-> {
             try {
-                h.printSayan();
+                h.printArun();
             } catch (InterruptedException e) {
                 throw new RuntimeException(e);
             }

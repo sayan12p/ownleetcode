@@ -28,6 +28,7 @@ public class MinimumSwaps {
                 j=collect.get(nums[j]);
             }
             ans+=noofswaps-1;
+            noofswaps=0;
         }
         return ans;
     }
