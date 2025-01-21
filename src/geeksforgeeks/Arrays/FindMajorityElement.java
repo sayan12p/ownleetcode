@@ -6,7 +6,7 @@ import java.util.Map;
 public class FindMajorityElement {
     public static int majorityElement(int a[], int size){
         HashMap<Integer,Integer> frequencymap=new HashMap<>();
-    int result=0;
+        int result=0;
         for(int i=0;i<size;i++) {
         if (frequencymap.containsKey(a[i])) {
             frequencymap.put(a[i], frequencymap.get(a[i]) + 1);
