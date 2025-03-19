@@ -71,7 +71,7 @@ public class ListCycle {
         return slow;
     }
     public static void main(String args[]){
-        ListNode node1 = new ListNode(3, new ListNode(2, new ListNode(0, new ListNode(-4,new ListNode(2,null)))));
+        ListNode node1 = new ListNode(3, new ListNode(2, new ListNode(0, new ListNode(-4,null))));
         /*ListNode node2 = new ListNode(5, new ListNode(6, new ListNode(4, null)));*/
 
         ListNode resultnode=detectCycle(node1);
