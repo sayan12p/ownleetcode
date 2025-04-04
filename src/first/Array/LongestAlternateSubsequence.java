@@ -20,6 +20,7 @@ public class LongestAlternateSubsequence {
     }
     public static void main(String[] args) {
         int[] A=new int[]{1,17,5,10,13,15,10,5,16,8};
-        System.out.println(AlternatingaMaxLength(A));
+        int [] A1= new int[]{10, 22, 9, 33, 49, 50, 31, 60};
+        System.out.println(AlternatingaMaxLength(A1));
     }
 }

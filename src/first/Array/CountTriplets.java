@@ -3,10 +3,7 @@ package first.Array;
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.List;
-import java.util.Map;
+import java.util.*;
 
 //https://www.youtube.com/watch?v=tBFZMaWP0W8
 /* If m no of elements are there to the left of a and n no of elements are there to the right of a then the total no of combinations that can be formed is m*n
@@ -39,22 +36,22 @@ public class CountTriplets {
         return count;
     }
     public static void main(String[] args) throws IOException {
-        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
-        String[] nr = bufferedReader.readLine().replaceAll("\\s+$", "").split(" ");
-
-        int n = Integer.parseInt(nr[0]);
-
-        long r = Long.parseLong(nr[1]);
-
-        String[] arrItems = bufferedReader.readLine().replaceAll("\\s+$", "").split(" ");
-
-        List<Long> arr = new ArrayList<>();
-
-        for (int i = 0; i < n; i++) {
-            long arrItem = Long.parseLong(arrItems[i]);
-            arr.add(arrItem);
-        }
-
+//        BufferedReader bufferedReader = new BufferedReader(new InputStreamReader(System.in));
+//        String[] nr = bufferedReader.readLine().replaceAll("\\s+$", "").split(" ");
+//
+//        int n = Integer.parseInt(nr[0]);
+//
+//        long r = Long.parseLong(nr[1]);
+//
+//        String[] arrItems = bufferedReader.readLine().replaceAll("\\s+$", "").split(" ");
+//
+//        List<Long> arr = new ArrayList<>();
+//
+//        for (int i = 0; i < n; i++) {
+//            long arrItem = Long.parseLong(arrItems[i]);
+//            arr.add(arrItem);
+//        }
+            List<Long> arr= Arrays.asList(1L,4L,16L,64L);int r=4;
         long ans = countTriplets(arr, r);
         System.out.println(ans);
 

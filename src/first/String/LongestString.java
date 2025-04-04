@@ -10,8 +10,7 @@ public class LongestString {
         Set<String> set=new HashSet<>();
         List<String> map=Arrays.stream(arr)
                 .filter(s->set.add(s))
-                .collect(Collectors.toMap(s->s.length(), s->s,(e1, e2)->e1,LinkedHashMap::new)).entrySet().stream()
-                .map(i->i.getValue()).collect(Collectors.toList());
+                .collect(Collectors.toMap(s->s.length(), s->s,(e1, e2)->e1,LinkedHashMap::new)).entrySet().stream().map(e->e.getValue()).collect(Collectors.toUnmodifiableList());
         System.out.println(map);
     }
 }

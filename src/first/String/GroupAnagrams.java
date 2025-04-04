@@ -19,6 +19,7 @@ public class GroupAnagrams
                 sb.append(s);
                 anagram.put(Arrays.toString(chars),sb.toString());
             }
+            System.out.println(anagram);
            result= anagram.values().stream().collect(Collectors.toList());
 
         }

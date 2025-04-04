@@ -34,6 +34,7 @@ public class MinimumSwaps {
     }
     public static void main(String[] args) {
         int[] nums=new int[]{1,5,4,3,2};
+        int[] nums1=new int[]{10, 19, 6, 3, 5};
         System.out.println(minswaps(nums));
     }
 }
