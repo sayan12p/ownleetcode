@@ -1,8 +1,11 @@
 package first.Array;
 
+import java.util.Arrays;
+
 public class SplitArray {
     //binarysearch
     public static int splitArray(int[] nums, int m) {
+        Arrays.sort(nums);
         int l=0;
         int r=0;
         for(int i=0;i<nums.length;i++){
@@ -43,7 +46,7 @@ public class SplitArray {
     }
 
     public static void main(String[] args) {
-        int[] nums={7,2,5,10,8};
+        int[] nums={1,2,3,4,5};
         int m=2;
         System.out.println(splitArray(nums,m));
     }

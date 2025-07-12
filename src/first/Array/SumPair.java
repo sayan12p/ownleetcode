@@ -31,7 +31,7 @@ public class SumPair {
         return new int[]{arr[res_l],arr[res_r]};
     }
     public static void main(String[] args) {
-       int  arr[] = {10, 22, 28, 29, 30, 40};
+       int  arr[] = {12, 22, 28, 29, 30, 40};
         System.out.println(Arrays.toString(sumClosest(arr,6,42)));
     }
 }

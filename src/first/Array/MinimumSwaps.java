@@ -10,9 +10,7 @@ public class MinimumSwaps {
     public static int minswaps(int[] nums){
         Map<Integer, Integer> collect =new HashMap<>();
         int n=nums.length;
-        for(int i=0;i<n;i++){
-            collect.put(nums[i],i);
-        }
+        collect=IntStream.range(0,nums.length).boxed().collect(Collectors.toMap(i->nums[i],Function.identity()));
         //collect=collect.entrySet().stream().sorted((e1,e2)->e1.getKey()-e2.getKey()).collect(Collectors.toMap(Map.Entry::getKey,Map.Entry::getValue,(e1,e2)->e1,LinkedHashMap::new));
         Arrays.sort(nums);
         System.out.println(collect);
@@ -34,7 +32,7 @@ public class MinimumSwaps {
     }
     public static void main(String[] args) {
         int[] nums=new int[]{1,5,4,3,2};
-        int[] nums1=new int[]{10, 19, 6, 3, 5};
-        System.out.println(minswaps(nums));
+        int[] nums1=new int[]{4,3,2,1};
+        System.out.println(minswaps(nums1));
     }
 }

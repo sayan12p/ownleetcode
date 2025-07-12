@@ -1,28 +1,31 @@
 import first.Third;
 
-import java.io.BufferedReader;
-import java.io.FileNotFoundException;
-import java.io.FileReader;
+
 import java.io.IOException;
-import java.util.LinkedHashMap;
-import java.util.function.Function;
+import java.math.BigDecimal;
+import java.util.Arrays;
+import java.util.List;
 import java.util.stream.Collectors;
+
+
+
 
 
 public class Test3 {
 
 
-    public static void main(String[] args) throws IOException {
-        FileReader in = new FileReader("D://ownleetcode//src/country.txt");
-        BufferedReader br = new BufferedReader(in);
-        String line;
-        while ((line = br.readLine()) != null) {
-            System.out.println(line);
 
-            String s= line;
-            LinkedHashMap<Character, Long> collect = s.chars().mapToObj((c) -> (char) c).collect(Collectors.groupingBy(Function.identity(), LinkedHashMap::new, Collectors.counting()));
-            System.out.println(collect);
-        }
+    public static void swaparr(int[] nums,int m,int n){
+        int temp=nums[m];
+        nums[m]=nums[n];
+        nums[n]=temp;
+    }
+
+    public static void main(String[] args) throws IOException {
+//        int[] nums={0, 1,2,1,2,0};
+//        seperate(nums);
+//        System.out.println(Arrays.toString(nums));
+
     }
 
 }

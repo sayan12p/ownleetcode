@@ -1,33 +1,37 @@
 package first.Array;
 
+import java.util.ArrayList;
 import java.util.Arrays;
+import java.util.Collections;
+import java.util.List;
+import java.util.stream.Collectors;
 
 public class NextPermutation {
     public static void nextPermutation(int[] nums) {
-        if(nums==null || nums.length<1) return;
-        int i=nums.length-2;
-        while (i>=0 && nums[i]>=nums[i+1]) i--;
-        if (i>=0){
-            int j=nums.length-1;
-            if(nums[j]<=nums[i]) j--;
-            swap(nums,i,j);
-
+        ArrayList<Integer> numslist=new ArrayList<>(Arrays.stream(nums).boxed().collect(Collectors.toList()));
+        int index=-1;
+        for(int i=numslist.size()-2;i>=0;i-- ){
+            if(numslist.get(i)<numslist.get(i+1)){
+                index=i;
+            }
         }
-
-        reverse(nums,i+1,nums.length-1);
-
-
+        if(index==-1) Collections.reverse(numslist);
+        for(int i=numslist.size()-1;i>=index;i--){
+          if(numslist.get(i)>numslist.get(index)){
+              int temp=numslist.get(i);
+              numslist.set(i,numslist.get(index));
+              numslist.set(index,temp);
+              break;
+          }
+        }
+        List<Integer> sublist=numslist.subList(index+1,numslist.size());
+        Collections.reverse(sublist);
+        nums=numslist.stream().mapToInt(Integer::intValue).toArray();
     }
-    public static void swap(int[] a,int i, int j){
-        int temp=a[i];
-        a[i]=a[j];
-        a[j]=temp;
-    }
-    public static void reverse(int [] a,int i,int j){
-        while(i>j) swap(a,i++,j--);
-    }
+
+
     public static void main(String args[]){
-        int nums[]={1,3,5,4,2};
+        int nums[]={1,1,5};
         nextPermutation(nums);
         System.out.println(Arrays.toString(nums));
     }

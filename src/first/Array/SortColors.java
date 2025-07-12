@@ -11,7 +11,6 @@ public class SortColors {
         while(i<=r){
             if(nums[i]==0){
                 swap(nums,i++,l++);
-
             }
             else if(nums[i]==2){
                 swap(nums,i,r--);
